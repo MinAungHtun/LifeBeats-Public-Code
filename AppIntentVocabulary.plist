@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IntentPhrases</key>
+	<array>
+		<dict>
+			<key>IntentName</key>
+			<string>ReviewTodayAchievementsIntent</string>
+			<key>IntentExamples</key>
+			<array>
+				<string>Today in Lifebeats</string>
+				<string>Lifebeats numbers</string>
+				<string>What did I do in Lifebeats?</string>
+				<string>Time in Lifebeats</string>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>
