@@ -1,0 +1,302 @@
+[
+    {
+        "id": 1001,
+        "line": "Hey, how's the study going? What's on your mind?",
+        "use": "Greeting",
+        "arrayId": 0
+    },
+    {
+        "id": 1002,
+        "line": "Good to have you here. How are you feeling today?",
+        "use": "Greeting",
+        "arrayId": 1
+    },
+    {
+        "id": 1003,
+        "line": "Wonderful to have you go through a session with us. What are you currently feeling?",
+        "use": "Greeting",
+        "arrayId": 2
+    },
+    {
+        "id": 1004,
+        "line": "Good day to you mate. How are you feeling today?",
+        "use": "Greeting",
+        "arrayId": 3
+    },
+    {
+        "id": 1005,
+        "line": "Hey there, How's it going?",
+        "use": "Greeting",
+        "arrayId": 4
+    },
+    {
+        "id": 1006,
+        "line": "Hey there, What's going on in your head currently? Would you mind sharing?",
+        "use": "Greeting",
+        "arrayId": 5
+    },
+    {
+        "id": 1007,
+        "line": "It's a pleasure to have you here. How are you currently feeling?",
+        "use": "Greeting",
+        "arrayId": 6
+    },
+    {
+        "id": 1008,
+        "line": "Hey, how are you currently feeling right now?",
+        "use": "Greeting",
+        "arrayId": 7
+    },
+    {
+        "id": 1009,
+        "line": "How's your job today? Are you well?",
+        "use": "Greeting",
+        "arrayId": 8
+    },
+    {
+        "id": 1010,
+        "line": "How are you feeling? Feeling stressed at work?",
+        "use": "Greeting",
+        "arrayId": 9
+    },
+    {
+        "id": 1011,
+        "line": "Good day to you mate. How are you feeling today?",
+        "use": "Greeting",
+        "arrayId": 10
+    },
+    {
+        "id": 1012,
+        "line": "Good day to you mate. How are you feeling today?",
+        "use": "Greeting",
+        "arrayId": 11
+    },
+    {
+        "id": 1013,
+        "line": "Good day to you mate. How are you feeling today?",
+        "use": "Greeting",
+        "arrayId": 12
+    },
+    {
+        "id": 1014,
+        "line": "Good day to you mate. How are you feeling today?",
+        "use": "Greeting",
+        "arrayId": 13
+    },
+    {
+        "id": 1015,
+        "line": "Good day to you mate. How are you feeling today?",
+        "use": "Greeting",
+        "arrayId": 14
+    },
+    {
+        "id": 1016,
+        "line": "Good day to you mate. How are you feeling today?",
+        "use": "Greeting",
+        "arrayId": 15
+    },
+    {
+        "id": 1017,
+        "line": "Good day to you mate. How are you feeling today?",
+        "use": "Greeting",
+        "arrayId": 16
+    },
+    {
+        "id": 1018,
+        "line": "Good day to you mate. How are you feeling today?",
+        "use": "Greeting",
+        "arrayId": 17
+    },
+    {
+        "id": 1019,
+        "line": "Good day to you mate. How are you feeling today?",
+        "use": "Greeting",
+        "arrayId": 18
+    },
+    {
+        "id": 1020,
+        "line": "Good day to you mate. How are you feeling today?",
+        "use": "Greeting",
+        "arrayId": 19
+    },
+    {
+        "id": 1021,
+        "line": "Good day to you mate. How are you feeling today?",
+        "use": "Greeting",
+        "arrayId": 20
+    },
+    {
+        "id": 1022,
+        "line": "Good day to you mate. How are you feeling today?",
+        "use": "Greeting",
+        "arrayId": 21
+    },
+    {
+        "id": 1023,
+        "line": "Good day to you mate. How are you feeling today?",
+        "use": "Greeting",
+        "arrayId": 22
+    },
+    {
+        "id": 1024,
+        "line": "Good day to you mate. How are you feeling today?",
+        "use": "Greeting",
+        "arrayId": 23
+    },
+    {
+        "id": 1025,
+        "line": "Good day to you mate 🤠. How are you feeling today?",
+        "use": "Greeting",
+        "arrayId": 24
+    },
+    {
+        "id": 1026,
+        "line": "Glad to share this moment with you 🥰. We know how we can help you feel better.                                     ",
+        "use": "First Reply",
+        "arrayId": 25
+    },
+    {
+        "id": 1027,
+        "line": "Way to go 👍👍💪💪💪💪. It's always a good news that our mental health is improving especially in times like these. We can help you maintain that. We will recommend you a therapy.",
+        "use": "First Reply",
+        "arrayId": 26
+    },
+    {
+        "id": 1028,
+        "line": "Got it, that's a very wonderful thing 👍💪💪. We know how we can help you today.                                                             ",
+        "use": "First Reply",
+        "arrayId": 27
+    },
+    {
+        "id": 1029,
+        "line": "Very good to hear that 😊👍. We will choose a therapy for you.                                                 ",
+        "use": "First Reply",
+        "arrayId": 28
+    },
+    {
+        "id": 1030,
+        "line": "Sure. We will make you feel better 😀.                                                          ",
+        "use": "First Reply",
+        "arrayId": 29
+    },
+    {
+        "id": 1031,
+        "line": "Great, wonderful 🙌. We have a session that we can recommend.                                          ",
+        "use": "First Reply",
+        "arrayId": 30
+    },
+    {
+        "id": 1032,
+        "line": "Glad to hear that 😊😊. We have an idea of which therapy we can suggest.                                      ",
+        "use": "First Reply",
+        "arrayId": 31
+    },
+    {
+        "id": 1033,
+        "line": "Great, We know how we can help you today.                                                             ",
+        "use": "First Reply",
+        "arrayId": 32
+    },
+    {
+        "id": 1034,
+        "line": "Perfect👍, we will suggest a therapy for you to try.                                            ",
+        "use": "First Reply",
+        "arrayId": 33
+    },
+    {
+        "id": 1035,
+        "line": "Perfect 👍🙌. Any chance we can put you into a finer state? We will choose a therapy for you.                                    ",
+        "use": "First Reply",
+        "arrayId": 34
+    },
+    {
+        "id": 1036,
+        "line": "We are always proud to share every blissful moment with you. We will help you along your mental health journey.",
+        "use": "First Reply",
+        "arrayId": 35
+    },
+    {
+        "id": 1037,
+        "line": "Keep it up 👍. We think we have an idea on a therapy you would like to try.                           ",
+        "use": "First Reply",
+        "arrayId": 36
+    },
+    {
+        "id": 1038,
+        "line": "Marvelous! We can help you feel good for today.                                        ",
+        "use": "First Reply",
+        "arrayId": 37
+    },
+    {
+        "id": 1039,
+        "line": "It's a tough time for everyone mentally but at least we are here to make you feel better. We have an idea on how we can help you.",
+        "use": "First Reply",
+        "arrayId": 38
+    },
+    {
+        "id": 1040,
+        "line": "It's brave that you opened up. We can suggest a therapy that would put your mental state to a bliss.         ",
+        "use": "First Reply",
+        "arrayId": 39
+    },
+    {
+        "id": 1041,
+        "line": "Life's tough and it's bad but we are here for this reason 😊. We can serve you a therapy to feel better.           ",
+        "use": "First Reply",
+        "arrayId": 40
+    },
+    {
+        "id": 1042,
+        "line": "Got it. It's our duty to make you feel better.                              ",
+        "use": "First Reply",
+        "arrayId": 41
+    },
+    {
+        "id": 1043,
+        "line": "Sorry to hear that😔. We can help you have better mental heath.                                 ",
+        "use": "First Reply",
+        "arrayId": 42
+    },
+    {
+        "id": 1044,
+        "line": "I'm sad to hear that 😔. But we can help you feel better ☺️🙌.                                          ",
+        "use": "First Reply",
+        "arrayId": 43
+    },
+    {
+        "id": 1045,
+        "line": "Sad to hear that. but not to worry, we are hear for you. We know just the right therapy for you.",
+        "use": "First Reply",
+        "arrayId": 44
+    },
+    {
+        "id": 1046,
+        "line": "That's bad. We should make you feel better and we will try our best.                                                   ",
+        "use": "First Reply",
+        "arrayId": 45
+    },
+    {
+        "id": 1047,
+        "line": "I know it's upsetting 😔. We will lighten your mood 😊💪.                           ",
+        "use": "First Reply",
+        "arrayId": 46
+    },
+    {
+        "id": 1048,
+        "line": "Sorry to hear that you are going through such a tough time especially during these times 😔. But we can help you 😊☺️.",
+        "use": "First Reply",
+        "arrayId": 47
+    },
+    {
+        "id": 1049,
+        "line": "It's beneficial that you opened up to us about that ☺️. We know how we can make you feel better            ",
+        "use": "First Reply",
+        "arrayId": 48
+    },
+    {
+        "id": 1050,
+        "line": "Forget this feeling for a while and we will help you feel better 😊.           ",
+        "use": "First Reply",
+        "arrayId": 49
+    }
+]

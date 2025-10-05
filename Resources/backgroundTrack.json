@@ -1,0 +1,2901 @@
+[
+    {
+        "name": "Birds in forest",
+        "category": "Nature",
+        "id": 1001,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "ES_Birds Forest 1 - SFX Producer",
+        "imageName": "MiddayDestress",
+        "URL": "Background Tracks/Nature/ES_Birds Forest 1 - SFX Producer.mp3"
+    },
+    {
+        "name": "Ocean Waves",
+        "category": "Nature",
+        "id": 1002,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "ES_Ocean Waves 1 - SFX Producer",
+        "imageName": "MiddayDestress",
+        "URL": "Background Tracks/Nature/4 Hours Ocean Waves Sea Waves Stunning Sound - Paradise At Last_ Relaxation_ 2h60m60s - 2h10m60s (dsDTJ__jioo) 961.m4a"
+    },
+    {
+        "name": "Camp Fire",
+        "category": "Nature",
+        "id": 1003,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "ES_Fire Campfire Cam 2 - SFX Producer",
+        "imageName": "MiddayDestress",
+        "URL": "Background Tracks/Nature/ES_Fire Campfire Cam 1 - SFX Producer.mp3"
+    },
+    {
+        "name": "White Noise",
+        "category": "Nature",
+        "id": 1004,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "White Noise",
+        "imageName": "MiddayDestress",
+        "URL": "Background Tracks/Nature/_ PERFECT CELESTIAL WHITE NOISE _ Ambient Noise For Sleep and Improved Focus_ 0s - 5m60s (O9mWS2gFtrs) 961.m4a"
+    },
+    {
+        "name": "Are You Thinking About Me",
+        "category": "Fitness",
+        "id": 1005,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "deep-focus-10-mins-alpha",
+        "imageName": "MiddayDestress",
+        "URL": "Background Tracks/Epidemic/Fitness/ES_Are You Thinking Bout Me (Instrumental Version) - Mindme.mp3"
+    },
+    {
+        "name": "Arms of Gold",
+        "category": "Fitness",
+        "id": 1006,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "deep-focus-10-mins-alpha",
+        "imageName": "MiddayDestress",
+        "URL": "Background Tracks/Epidemic/Fitness/ES_Arms of Gold (Instrumental Version) - Tape Machines.mp3"
+    },
+    {
+        "name": "Flashing Lights",
+        "category": "Fitness",
+        "id": 1007,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "deep-focus-10-mins-alpha",
+        "imageName": "MiddayDestress",
+        "URL": "Background Tracks/Epidemic/Fitness/ES_Flashing Lights - Daxten.mp3"
+    },
+    {
+        "name": "Fooled Me Good",
+        "category": "Fitness",
+        "id": 1008,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "deep-focus-10-mins-alpha",
+        "imageName": "MiddayDestress",
+        "URL": "Background Tracks/Epidemic/Fitness/ES_Fooled Me Good (Instrumental Version) - Snake City.mp3"
+    },
+    {
+        "name": "Forever Whenever",
+        "category": "Fitness",
+        "id": 1009,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "deep-focus-10-mins-alpha",
+        "imageName": "MiddayDestress",
+        "URL": "Background Tracks/Epidemic/Fitness/ES_Forever Whenever (Instrumental Version) - Paisley Pink.mp3"
+    },
+    {
+        "name": "Left in the Rain",
+        "category": "Fitness",
+        "id": 1010,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "deep-focus-10-mins-alpha",
+        "imageName": "MiddayDestress",
+        "URL": "Background Tracks/Epidemic/Fitness/ES_Left in the Rain (Instrumental Version) - Loving Caliber.mp3"
+    },
+    {
+        "name": "Pale Feather",
+        "category": "Fitness",
+        "id": 1011,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "deep-focus-10-mins-alpha",
+        "imageName": "MiddayDestress",
+        "URL": "Background Tracks/Epidemic/Fitness/ES_Pale Feather (Instrumental Version) - Lofive.mp3"
+    },
+    {
+        "name": "Too Rough Around the Edges",
+        "category": "Fitness",
+        "id": 1012,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "deep-focus-10-mins-alpha",
+        "imageName": "MiddayDestress",
+        "URL": "Background Tracks/Epidemic/Fitness/ES_Too Rough around the Edges (Instrumental Version) - Snake City.mp3"
+    },
+    {
+        "name": "We will fight",
+        "category": "Fitness",
+        "id": 1013,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "deep-focus-10-mins-alpha",
+        "imageName": "MiddayDestress",
+        "URL": "Background Tracks/Epidemic/Fitness/ES_We Will Fight - Josh Gram.mp3"
+    },
+    {
+        "name": "Whatever Man",
+        "category": "Fitness",
+        "id": 1014,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "deep-focus-10-mins-alpha",
+        "imageName": "MiddayDestress",
+        "URL": "Background Tracks/Epidemic/Fitness/ES_Whatever Man - Xack.mp3"
+    },
+    {
+        "name": "You are always on my mind",
+        "category": "Fitness",
+        "id": 1015,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "deep-focus-10-mins-alpha",
+        "imageName": "MiddayDestress",
+        "URL": "Background Tracks/Epidemic/Fitness/ES_You Are Always On My Mind (Instrumental Version) - Snake City.mp3"
+    },
+    {
+        "name": "A Certain Shade of Blue",
+        "category": "Acoustic Focus",
+        "id": 1016,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "deep-focus-10-mins-alpha",
+        "imageName": "MiddayDestress",
+        "URL": "Background Tracks/Epidemic/Acoustic/ES_A Certain Shade of Blue (Instrumental Version) - Paper Twins.mp3"
+    },
+    {
+        "name": "Beauty Lives in Me",
+        "category": "Acoustic Focus",
+        "id": 1017,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "deep-focus-10-mins-alpha",
+        "imageName": "MiddayDestress",
+        "URL": "Background Tracks/Epidemic/Acoustic/ES_Beauty Lives in Me (Instrumental Version) - Johannes Bornlof.mp3"
+    },
+    {
+        "name": "Body to Body",
+        "category": "Acoustic Focus",
+        "id": 1018,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "deep-focus-10-mins-alpha",
+        "imageName": "MiddayDestress",
+        "URL": "Background Tracks/Epidemic/Acoustic/ES_Body to Body (Instrumental Version) - Sture Zetterberg.mp3"
+    },
+    {
+        "name": "Can we work it out",
+        "category": "Acoustic Focus",
+        "id": 1019,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "deep-focus-10-mins-alpha",
+        "imageName": "MiddayDestress",
+        "URL": "Background Tracks/Epidemic/Acoustic/ES_Can We Work It out (Instrumental Version) - CLNGR.mp3"
+    },
+    {
+        "name": "Can you feel me",
+        "category": "Acoustic Focus",
+        "id": 1020,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "deep-focus-10-mins-alpha",
+        "imageName": "MiddayDestress",
+        "URL": "Background Tracks/Epidemic/Acoustic/ES_Can You Feel Me (Acoustic Version) (Instrumental Version) - Love Beans.mp3"
+    },
+    {
+        "name": "Don't Waste my time",
+        "category": "Acoustic Focus",
+        "id": 1021,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "deep-focus-10-mins-alpha",
+        "imageName": "MiddayDestress",
+        "URL": "Background Tracks/Epidemic/Acoustic/ES_Don_t Waste My Time (Instrumental Version) - Dayon.mp3"
+    },
+    {
+        "name": "Fresh Perspective",
+        "category": "Acoustic Focus",
+        "id": 1022,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "deep-focus-10-mins-alpha",
+        "imageName": "MiddayDestress",
+        "URL": "Background Tracks/Epidemic/Acoustic/ES_Fresh Perspective - Megan Wofford.mp3"
+    },
+    {
+        "name": "Good Vibes",
+        "category": "Acoustic Focus",
+        "id": 1023,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "deep-focus-10-mins-alpha",
+        "imageName": "MiddayDestress",
+        "URL": "Background Tracks/Epidemic/Acoustic/ES_Good Vibes (Instrumental Version) - East of Heaven.mp3"
+    },
+    {
+        "name": "Hidden Depth",
+        "category": "Acoustic Focus",
+        "id": 1024,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "deep-focus-10-mins-alpha",
+        "imageName": "MiddayDestress",
+        "URL": "Background Tracks/Epidemic/Acoustic/ES_Hidden Depth - Megan Wofford.mp3"
+    },
+    {
+        "name": "High Noon",
+        "category": "Acoustic Focus",
+        "id": 1025,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "deep-focus-10-mins-alpha",
+        "imageName": "MiddayDestress",
+        "URL": "Background Tracks/Epidemic/Acoustic/ES_High Noon - Toby Tranter.mp3"
+    },
+    {
+        "name": "I don't know you anymore",
+        "category": "Acoustic Focus",
+        "id": 1026,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "deep-focus-10-mins-alpha",
+        "imageName": "MiddayDestress",
+        "URL": "Background Tracks/Epidemic/Acoustic/ES_I Don_t Know You Anymore (Instrumental Version) - Dayon.mp3"
+    },
+    {
+        "name": "I fall",
+        "category": "Acoustic Focus",
+        "id": 1027,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "deep-focus-10-mins-alpha",
+        "imageName": "MiddayDestress",
+        "URL": "Background Tracks/Epidemic/Acoustic/ES_I Fall (Instrumental Version) - Dayon.mp3"
+    },
+    {
+        "name": "I remember",
+        "category": "Acoustic Focus",
+        "id": 1028,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "deep-focus-10-mins-alpha",
+        "imageName": "MiddayDestress",
+        "URL": "Background Tracks/Epidemic/Acoustic/ES_I Remember (Instrumental Version) - Dayon.mp3"
+    },
+    {
+        "name": "If you still wanted to be loved",
+        "category": "Acoustic Focus",
+        "id": 1029,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "deep-focus-10-mins-alpha",
+        "imageName": "MiddayDestress",
+        "URL": "Background Tracks/Epidemic/Acoustic/ES_If You Still Wanted to Be Loved (Instrumental Version) - Candelion.mp3"
+    },
+    {
+        "name": "If you wanna go",
+        "category": "Acoustic Focus",
+        "id": 1030,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "deep-focus-10-mins-alpha",
+        "imageName": "MiddayDestress",
+        "URL": "Background Tracks/Epidemic/Acoustic/ES_If You Wanna Go (Instrumental Version) - Sleepaway Camp.mp3"
+    },
+    {
+        "name": "Never thought",
+        "category": "Acoustic Focus",
+        "id": 1031,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "deep-focus-10-mins-alpha",
+        "imageName": "MiddayDestress",
+        "URL": "Background Tracks/Epidemic/Acoustic/ES_Never Thought (Instrumental Version) - Roots and Recognition.mp3"
+    },
+    {
+        "name": "Next Sunday",
+        "category": "Acoustic Focus",
+        "id": 1032,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "deep-focus-10-mins-alpha",
+        "imageName": "MiddayDestress",
+        "URL": "Background Tracks/Epidemic/Acoustic/ES_Next Sunday (Instrumental Version) - Roots and Recognition.mp3"
+    },
+    {
+        "name": "Not Right",
+        "category": "Acoustic Focus",
+        "id": 1033,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "deep-focus-10-mins-alpha",
+        "imageName": "MiddayDestress",
+        "URL": "Background Tracks/Epidemic/Acoustic/ES_Not Right (Instrumental Version) - CLNGR.mp3"
+    },
+    {
+        "name": "Running Circles",
+        "category": "Acoustic Focus",
+        "id": 1034,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "deep-focus-10-mins-alpha",
+        "imageName": "MiddayDestress",
+        "URL": "Background Tracks/Epidemic/Acoustic/ES_Running Circles (Instrumental Version) - Cody Francis.mp3"
+    },
+    {
+        "name": "Sky filled with treasures",
+        "category": "Acoustic Focus",
+        "id": 1035,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "deep-focus-10-mins-alpha",
+        "imageName": "MiddayDestress",
+        "URL": "Background Tracks/Epidemic/Acoustic/ES_Sky Filled with Treasure (Instrumental Version) - Aiyo.mp3"
+    },
+    {
+        "name": "Something Different",
+        "category": "Acoustic Focus",
+        "id": 1036,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "deep-focus-10-mins-alpha",
+        "imageName": "MiddayDestress",
+        "URL": "Background Tracks/Epidemic/Acoustic/ES_Something Different (Instrumental Version) - CLNGR.mp3"
+    },
+    {
+        "name": "There's a new day",
+        "category": "Acoustic Focus",
+        "id": 1037,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "deep-focus-10-mins-alpha",
+        "imageName": "MiddayDestress",
+        "URL": "Background Tracks/Epidemic/Acoustic/ES_There_s a New Day (Instrumental Version) - Staffan Carlen.mp3"
+    },
+    {
+        "name": "Ursol",
+        "category": "Acoustic Focus",
+        "id": 1038,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "deep-focus-10-mins-alpha",
+        "imageName": "MiddayDestress",
+        "URL": "Background Tracks/Epidemic/Acoustic/ES_Ursol - Valante.mp3"
+    },
+    {
+        "name": "Waiting for love",
+        "category": "Acoustic Focus",
+        "id": 1039,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "deep-focus-10-mins-alpha",
+        "imageName": "MiddayDestress",
+        "URL": "Background Tracks/Epidemic/Acoustic/ES_Waiting for Love (Instrumental Version) - Candelion.mp3"
+    },
+    {
+        "name": "Waste of Time",
+        "category": "Acoustic Focus",
+        "id": 1040,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "deep-focus-10-mins-alpha",
+        "imageName": "MiddayDestress",
+        "URL": "Background Tracks/Epidemic/Acoustic/ES_Waste of Time (Instrumental Version) - CLNGR.mp3"
+    },
+    {
+        "name": "Way Way Back",
+        "category": "Acoustic Focus",
+        "id": 1041,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "deep-focus-10-mins-alpha",
+        "imageName": "MiddayDestress",
+        "URL": "Background Tracks/Epidemic/Acoustic/ES_Way Way Back (Acoustic Version) (Instrumental Version) - Lvly.mp3"
+    },
+    {
+        "name": "Weather any storm",
+        "category": "Acoustic Focus",
+        "id": 1042,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "deep-focus-10-mins-alpha",
+        "imageName": "MiddayDestress",
+        "URL": "Background Tracks/Epidemic/Acoustic/ES_Weather Any Storm (Instrumental Version) - Cody Francis.mp3"
+    },
+    {
+        "name": "You can take me high",
+        "category": "Acoustic Focus",
+        "id": 1043,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "deep-focus-10-mins-alpha",
+        "imageName": "MiddayDestress",
+        "URL": "Background Tracks/Epidemic/Acoustic/ES_You Can Take Me High (Instrumental Version) - Candelion.mp3"
+    },
+    {
+        "name": "A Good Time",
+        "category": "EDM Focus",
+        "id": 1044,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "deep-focus-10-mins-alpha",
+        "imageName": "MiddayDestress",
+        "URL": "Background Tracks/Epidemic/EDM/ES_A Good Time (Instrumental Version) - waykap.mp3"
+    },
+    {
+        "name": "Adore U",
+        "category": "EDM Focus",
+        "id": 1045,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "deep-focus-10-mins-alpha",
+        "imageName": "MiddayDestress",
+        "URL": "Background Tracks/Epidemic/EDM/ES_Adore U (Instrumental Version) - waykap.mp3"
+    },
+    {
+        "name": "Aimless",
+        "category": "EDM Focus",
+        "id": 1046,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "deep-focus-10-mins-alpha",
+        "imageName": "MiddayDestress",
+        "URL": "Background Tracks/Epidemic/EDM/ES_Aimless - Ealot.mp3"
+    },
+    {
+        "name": "D8D9-Power Druid",
+        "category": "EDM Focus",
+        "id": 1047,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "deep-focus-10-mins-alpha",
+        "imageName": "MiddayDestress",
+        "URL": "Background Tracks/Epidemic/EDM/ES_D8D9 - Power Druid.mp3"
+    },
+    {
+        "name": "Deviation",
+        "category": "EDM Focus",
+        "id": 1048,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "deep-focus-10-mins-alpha",
+        "imageName": "MiddayDestress",
+        "URL": "Background Tracks/Epidemic/EDM/ES_Deviation - Twelwe.mp3"
+    },
+    {
+        "name": "Don't Need It",
+        "category": "EDM Focus",
+        "id": 1049,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "deep-focus-10-mins-alpha",
+        "imageName": "MiddayDestress",
+        "URL": "Background Tracks/Epidemic/EDM/ES_Don_t Need It (Instrumental Version) - Mindme.mp3"
+    },
+    {
+        "name": "Follow me wild horse",
+        "category": "EDM Focus",
+        "id": 1050,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "deep-focus-10-mins-alpha",
+        "imageName": "MiddayDestress",
+        "URL": "Background Tracks/Epidemic/EDM/ES_FOLLOW ME Wild Horse - Cospe.mp3"
+    },
+    {
+        "name": "Get you off",
+        "category": "EDM Focus",
+        "id": 1051,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "deep-focus-10-mins-alpha",
+        "imageName": "MiddayDestress",
+        "URL": "Background Tracks/Epidemic/EDM/ES_Get You Off (Instrumental Version) - Sionya.mp3"
+    },
+    {
+        "name": "High Hopes",
+        "category": "EDM Focus",
+        "id": 1052,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "deep-focus-10-mins-alpha",
+        "imageName": "MiddayDestress",
+        "URL": "Background Tracks/Epidemic/EDM/ES_High Hopes (Do U Feel the Same) (Instrumental Version) - Snake City.mp3"
+    },
+    {
+        "name": "Ikigai-Twelve",
+        "category": "EDM Focus",
+        "id": 1053,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "deep-focus-10-mins-alpha",
+        "imageName": "MiddayDestress",
+        "URL": "Background Tracks/Epidemic/EDM/ES_Ikigai - Twelwe.mp3"
+    },
+    {
+        "name": "Jarkata",
+        "category": "EDM Focus",
+        "id": 1054,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "deep-focus-10-mins-alpha",
+        "imageName": "MiddayDestress",
+        "URL": "Background Tracks/Epidemic/EDM/ES_Jakarta - Bonsaye.mp3"
+    },
+    {
+        "name": "Let me drown",
+        "category": "EDM Focus",
+        "id": 1055,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "deep-focus-10-mins-alpha",
+        "imageName": "MiddayDestress",
+        "URL": "Background Tracks/Epidemic/EDM/ES_Let Me Drown (Instrumental Version) - Deanz.mp3"
+    },
+    {
+        "name": "Let me know in time",
+        "category": "EDM Focus",
+        "id": 1056,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "deep-focus-10-mins-alpha",
+        "imageName": "MiddayDestress",
+        "URL": "Background Tracks/Epidemic/EDM/ES_Let Me Know in Time - Tomas Skyldeberg.mp3"
+    },
+    {
+        "name": "Marble Ink",
+        "category": "EDM Focus",
+        "id": 1057,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "deep-focus-10-mins-alpha",
+        "imageName": "MiddayDestress",
+        "URL": "Background Tracks/Epidemic/EDM/ES_Marble Ink - Giants_ Nest.mp3"
+    },
+    {
+        "name": "One good reason",
+        "category": "EDM Focus",
+        "id": 1058,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "deep-focus-10-mins-alpha",
+        "imageName": "MiddayDestress",
+        "URL": "Background Tracks/Epidemic/EDM/ES_One Good Reason (Instrumental Version) - Snake City.mp3"
+    },
+    {
+        "name": "Phantasy",
+        "category": "EDM Focus",
+        "id": 1059,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "deep-focus-10-mins-alpha",
+        "imageName": "MiddayDestress",
+        "URL": "Background Tracks/Epidemic/EDM/ES_Phantasy - AGST.mp3"
+    },
+    {
+        "name": "Reckless Love",
+        "category": "EDM Focus",
+        "id": 1060,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "deep-focus-10-mins-alpha",
+        "imageName": "MiddayDestress",
+        "URL": "Background Tracks/Epidemic/EDM/ES_Reckless Love - Onda Norte.mp3"
+    },
+    {
+        "name": "Room 149",
+        "category": "EDM Focus",
+        "id": 1061,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "deep-focus-10-mins-alpha",
+        "imageName": "MiddayDestress",
+        "URL": "Background Tracks/Epidemic/EDM/ES_Room 149 - Alex Dovo.mp3"
+    },
+    {
+        "name": "Rue Des Barres STEMS",
+        "category": "EDM Focus",
+        "id": 1062,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "deep-focus-10-mins-alpha",
+        "imageName": "MiddayDestress",
+        "URL": "Background Tracks/Epidemic/EDM/ES_Rue Des Barres STEMS FULL.mp3"
+    },
+    {
+        "name": "Simone",
+        "category": "EDM Focus",
+        "id": 1063,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "deep-focus-10-mins-alpha",
+        "imageName": "MiddayDestress",
+        "URL": "Background Tracks/Epidemic/EDM/ES_Simone - Baron Grand.mp3"
+    },
+    {
+        "name": "Sky filled with Treasure",
+        "category": "EDM Focus",
+        "id": 1064,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "deep-focus-10-mins-alpha",
+        "imageName": "MiddayDestress",
+        "URL": "Background Tracks/Epidemic/EDM/ES_Sky Filled with Treasure (Instrumental Version) - Aiyo.mp3"
+    },
+    {
+        "name": "The sun goes down",
+        "category": "EDM Focus",
+        "id": 1065,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "deep-focus-10-mins-alpha",
+        "imageName": "MiddayDestress",
+        "URL": "Background Tracks/Epidemic/EDM/ES_The Sun Goes Down (Instrumental Version) - Lvly.mp3"
+    },
+    {
+        "name": "Thermal Mood",
+        "category": "EDM Focus",
+        "id": 1066,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "deep-focus-10-mins-alpha",
+        "imageName": "MiddayDestress",
+        "URL": "Background Tracks/Epidemic/EDM/ES_Thermal Mood - Brendon Moeller.mp3"
+    },
+    {
+        "name": "Wide Eyes",
+        "category": "EDM Focus",
+        "id": 1067,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "deep-focus-10-mins-alpha",
+        "imageName": "MiddayDestress",
+        "URL": "Background Tracks/Epidemic/EDM/ES_Wide Eyes - Tape Machines.mp3"
+    },
+    {
+        "name": "All in the motion",
+        "category": "Focus Beats Album",
+        "id": 1068,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "deep-focus-10-mins-alpha",
+        "imageName": "MiddayDestress",
+        "URL": "Background Tracks/Epidemic/Focus Beats/ES_All in the Motion (Instrumental Version) - CLNGR.mp3"
+    },
+    {
+        "name": "Aries-Dye O",
+        "category": "Focus Beats Album",
+        "id": 1069,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "deep-focus-10-mins-alpha",
+        "imageName": "MiddayDestress",
+        "URL": "Background Tracks/Epidemic/Focus Beats/ES_Aries - Dye O.mp3"
+    },
+    {
+        "name": "Arms of Gold",
+        "category": "Focus Beats Album",
+        "id": 1070,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "deep-focus-10-mins-alpha",
+        "imageName": "MiddayDestress",
+        "URL": "Background Tracks/Epidemic/Focus Beats/ES_Arms of Gold (Instrumental Version) - Tape Machines.mp3"
+    },
+    {
+        "name": "Before Chill",
+        "category": "Focus Beats Album",
+        "id": 1071,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "deep-focus-10-mins-alpha",
+        "imageName": "MiddayDestress",
+        "URL": "Background Tracks/Epidemic/Focus Beats/ES_Before Chill - Yomoti.mp3"
+    },
+    {
+        "name": "Cambodia Rain",
+        "category": "Focus Beats Album",
+        "id": 1072,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "deep-focus-10-mins-alpha",
+        "imageName": "MiddayDestress",
+        "URL": "Background Tracks/Epidemic/Focus Beats/ES_Cambodia Rain - SINY.mp3"
+    },
+    {
+        "name": "Can't stop falling",
+        "category": "Focus Beats Album",
+        "id": 1073,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "deep-focus-10-mins-alpha",
+        "imageName": "MiddayDestress",
+        "URL": "Background Tracks/Epidemic/Focus Beats/ES_Can_t Stop Falling (Instrumental Version) - Cartice.mp3"
+    },
+    {
+        "name": "Coffee and Unicorns",
+        "category": "Focus Beats Album",
+        "id": 1074,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "deep-focus-10-mins-alpha",
+        "imageName": "MiddayDestress",
+        "URL": "Background Tracks/Epidemic/Focus Beats/ES_Coffee And Unicorns - Henyao.mp3"
+    },
+    {
+        "name": "Come 2gether",
+        "category": "Focus Beats Album",
+        "id": 1075,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "deep-focus-10-mins-alpha",
+        "imageName": "MiddayDestress",
+        "URL": "Background Tracks/Epidemic/Focus Beats/ES_Come 2gether - Ooyy.mp3"
+    },
+    {
+        "name": "Daffodils",
+        "category": "Focus Beats Album",
+        "id": 1076,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "deep-focus-10-mins-alpha",
+        "imageName": "MiddayDestress",
+        "URL": "Background Tracks/Epidemic/Focus Beats/ES_Daffodils - Guustavv.mp3"
+    },
+    {
+        "name": "Dot the I's and Cross the T's",
+        "category": "Focus Beats Album",
+        "id": 1077,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "deep-focus-10-mins-alpha",
+        "imageName": "MiddayDestress",
+        "URL": "Background Tracks/Epidemic/Focus Beats/ES_Dot The I_s And Cross The T_s - Frook.mp3"
+    },
+    {
+        "name": "Easy Feet",
+        "category": "Focus Beats Album",
+        "id": 1078,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "deep-focus-10-mins-alpha",
+        "imageName": "MiddayDestress",
+        "URL": "Background Tracks/Epidemic/Focus Beats/ES_Easy Feet - Smartface.mp3"
+    },
+    {
+        "name": "Honesty",
+        "category": "Focus Beats Album",
+        "id": 1079,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "deep-focus-10-mins-alpha",
+        "imageName": "MiddayDestress",
+        "URL": "Background Tracks/Epidemic/Focus Beats/ES_Honesty - Hallman.mp3"
+    },
+    {
+        "name": "How to treat you right",
+        "category": "Focus Beats Album",
+        "id": 1080,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "deep-focus-10-mins-alpha",
+        "imageName": "MiddayDestress",
+        "URL": "Background Tracks/Epidemic/Focus Beats/ES_How to Treat You Right (Instrumental Version) - Mia Pfirrman.mp3"
+    },
+    {
+        "name": "I need this",
+        "category": "Focus Beats Album",
+        "id": 1081,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "deep-focus-10-mins-alpha",
+        "imageName": "MiddayDestress",
+        "URL": "Background Tracks/Epidemic/Focus Beats/ES_I Need This - Frook.mp3"
+    },
+    {
+        "name": "Left in the rain",
+        "category": "Focus Beats Album",
+        "id": 1082,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "deep-focus-10-mins-alpha",
+        "imageName": "MiddayDestress",
+        "URL": "Background Tracks/Epidemic/Focus Beats/ES_Left in the Rain (Instrumental Version) - Loving Caliber.mp3"
+    },
+    {
+        "name": "Linen",
+        "category": "Focus Beats Album",
+        "id": 1083,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "deep-focus-10-mins-alpha",
+        "imageName": "MiddayDestress",
+        "URL": "Background Tracks/Epidemic/Focus Beats/ES_Linen - Frook.mp3"
+    },
+    {
+        "name": "Midnight Vibe",
+        "category": "Focus Beats Album",
+        "id": 1084,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "deep-focus-10-mins-alpha",
+        "imageName": "MiddayDestress",
+        "URL": "Background Tracks/Epidemic/Focus Beats/ES_Midnight Vibe - Yomoti.mp3"
+    },
+    {
+        "name": "Much Adore",
+        "category": "Focus Beats Album",
+        "id": 1085,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "deep-focus-10-mins-alpha",
+        "imageName": "MiddayDestress",
+        "URL": "Background Tracks/Epidemic/Focus Beats/ES_Much Adore - RaFa Sessions.mp3"
+    },
+    {
+        "name": "Near",
+        "category": "Focus Beats Album",
+        "id": 1086,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "deep-focus-10-mins-alpha",
+        "imageName": "MiddayDestress",
+        "URL": "Background Tracks/Epidemic/Focus Beats/ES_NEAR - SINY.mp3"
+    },
+    {
+        "name": "Purple Lilies",
+        "category": "Focus Beats Album",
+        "id": 1087,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "deep-focus-10-mins-alpha",
+        "imageName": "MiddayDestress",
+        "URL": "Background Tracks/Epidemic/Focus Beats/ES_Purple Lilies - Sum Wave.mp3"
+    },
+    {
+        "name": "Rainy Sunday",
+        "category": "Focus Beats Album",
+        "id": 1088,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "deep-focus-10-mins-alpha",
+        "imageName": "MiddayDestress",
+        "URL": "Background Tracks/Epidemic/Focus Beats/ES_Rainy Sunday - Henyao.mp3"
+    },
+    {
+        "name": "Shinigami",
+        "category": "Focus Beats Album",
+        "id": 1089,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "deep-focus-10-mins-alpha",
+        "imageName": "MiddayDestress",
+        "URL": "Background Tracks/Epidemic/Focus Beats/ES_Shinigami - SINY.mp3"
+    },
+    {
+        "name": "Snow Cap",
+        "category": "Focus Beats Album",
+        "id": 1090,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "deep-focus-10-mins-alpha",
+        "imageName": "MiddayDestress",
+        "URL": "Background Tracks/Epidemic/Focus Beats/ES_Snow Cap - Guustavv.mp3"
+    },
+    {
+        "name": "Sunday Spelunking",
+        "category": "Focus Beats Album",
+        "id": 1091,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "deep-focus-10-mins-alpha",
+        "imageName": "MiddayDestress",
+        "URL": "Background Tracks/Epidemic/Focus Beats/ES_Sunday Spelunking - Frook.mp3"
+    },
+    {
+        "name": "Teahouse Event",
+        "category": "Focus Beats Album",
+        "id": 1092,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "deep-focus-10-mins-alpha",
+        "imageName": "MiddayDestress",
+        "URL": "Background Tracks/Epidemic/Focus Beats/ES_Teahouse Event - SINY.mp3"
+    },
+    {
+        "name": "The Streets",
+        "category": "Focus Beats Album",
+        "id": 1093,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "deep-focus-10-mins-alpha",
+        "imageName": "MiddayDestress",
+        "URL": "Background Tracks/Epidemic/Focus Beats/ES_The Streets (Instrumental Version) - Roof.mp3"
+    },
+    {
+        "name": "The Writer",
+        "category": "Focus Beats Album",
+        "id": 1094,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "deep-focus-10-mins-alpha",
+        "imageName": "MiddayDestress",
+        "URL": "Background Tracks/Epidemic/Focus Beats/ES_The Writer - Smartface.mp3"
+    },
+    {
+        "name": "Think about me too",
+        "category": "Focus Beats Album",
+        "id": 1095,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "deep-focus-10-mins-alpha",
+        "imageName": "MiddayDestress",
+        "URL": "Background Tracks/Epidemic/Focus Beats/ES_Think About Me Too (Instrumental Version) - Cartice.mp3"
+    },
+    {
+        "name": "Toxic Love",
+        "category": "Focus Beats Album",
+        "id": 1096,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "deep-focus-10-mins-alpha",
+        "imageName": "MiddayDestress",
+        "URL": "Background Tracks/Epidemic/Focus Beats/ES_Toxic Love (Instrumental Version) - Lvly.mp3"
+    },
+    {
+        "name": "Willow Trees",
+        "category": "Focus Beats Album",
+        "id": 1097,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "deep-focus-10-mins-alpha",
+        "imageName": "MiddayDestress",
+        "URL": "Background Tracks/Epidemic/Focus Beats/ES_Willow Trees - Guustavv.mp3"
+    },
+    {
+        "name": "A massage from your space cat",
+        "category": "Soothing Focus",
+        "id": 1098,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "deep-focus-10-mins-alpha",
+        "imageName": "MiddayDestress",
+        "URL": "Background Tracks/Epidemic/Hypnotic/ES_A Message From Your Space Cat - Felix Johansson Carne.mp3"
+    },
+    {
+        "name": "Abstractions",
+        "category": "Soothing Focus",
+        "id": 1099,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "deep-focus-10-mins-alpha",
+        "imageName": "MiddayDestress",
+        "URL": "Background Tracks/Epidemic/Hypnotic/ES_Abstractions - Aleph One.mp3"
+    },
+    {
+        "name": "Avinam",
+        "category": "Soothing Focus",
+        "id": 1100,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "deep-focus-10-mins-alpha",
+        "imageName": "MiddayDestress",
+        "URL": "Background Tracks/Epidemic/Hypnotic/ES_Avinam - Valante.mp3"
+    },
+    {
+        "name": "Fresh Perspective",
+        "category": "Soothing Focus",
+        "id": 1101,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "deep-focus-10-mins-alpha",
+        "imageName": "MiddayDestress",
+        "URL": "Background Tracks/Epidemic/Hypnotic/ES_Fresh Perspective - Megan Wofford.mp3"
+    },
+    {
+        "name": "Gold among the sand",
+        "category": "Soothing Focus",
+        "id": 1102,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "deep-focus-10-mins-alpha",
+        "imageName": "MiddayDestress",
+        "URL": "Background Tracks/Epidemic/Hypnotic/ES_Gold among the Sand - Trevor Kowalski.mp3"
+    },
+    {
+        "name": "It's your smile",
+        "category": "Soothing Focus",
+        "id": 1103,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "deep-focus-10-mins-alpha",
+        "imageName": "MiddayDestress",
+        "URL": "Background Tracks/Epidemic/Hypnotic/ES_It_s Your Smile - Wendy Marcini.mp3"
+    },
+    {
+        "name": "Late Arrivals",
+        "category": "Soothing Focus",
+        "id": 1104,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "deep-focus-10-mins-alpha",
+        "imageName": "MiddayDestress",
+        "URL": "Background Tracks/Epidemic/Hypnotic/ES_Late Arrivals - Lonov .mp3"
+    },
+    {
+        "name": "Micro Evolution",
+        "category": "Soothing Focus",
+        "id": 1105,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "deep-focus-10-mins-alpha",
+        "imageName": "MiddayDestress",
+        "URL": "Background Tracks/Epidemic/Hypnotic/ES_Micro Evolution - Howard Harper-Barnes.mp3"
+    },
+    {
+        "name": "Monkey Mind",
+        "category": "Soothing Focus",
+        "id": 1106,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "deep-focus-10-mins-alpha",
+        "imageName": "MiddayDestress",
+        "URL": "Background Tracks/Epidemic/Hypnotic/ES_Monkey Mind - Veevel.mp3"
+    },
+    {
+        "name": "Mt.Fuji",
+        "category": "Soothing Focus",
+        "id": 1107,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "deep-focus-10-mins-alpha",
+        "imageName": "MiddayDestress",
+        "URL": "Background Tracks/Epidemic/Hypnotic/ES_Mt. Fuji - Ooyy.mp3"
+    },
+    {
+        "name": "Numb",
+        "category": "Soothing Focus",
+        "id": 1108,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "deep-focus-10-mins-alpha",
+        "imageName": "MiddayDestress",
+        "URL": "Background Tracks/Epidemic/Hypnotic/ES_Numb - Nihoni.mp3"
+    },
+    {
+        "name": "Palm",
+        "category": "Soothing Focus",
+        "id": 1109,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "deep-focus-10-mins-alpha",
+        "imageName": "MiddayDestress",
+        "URL": "Background Tracks/Epidemic/Hypnotic/ES_Palm - Trevor Kowalski.mp3"
+    },
+    {
+        "name": "Parallel Universe",
+        "category": "Soothing Focus",
+        "id": 1110,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "deep-focus-10-mins-alpha",
+        "imageName": "MiddayDestress",
+        "URL": "Background Tracks/Epidemic/Hypnotic/ES_Parallel Universe - Lonov .mp3"
+    },
+    {
+        "name": "Prescient",
+        "category": "Soothing Focus",
+        "id": 1111,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "deep-focus-10-mins-alpha",
+        "imageName": "MiddayDestress",
+        "URL": "Background Tracks/Epidemic/Hypnotic/ES_Prescient - Howard Harper-Barnes.mp3"
+    },
+    {
+        "name": "Return of Light",
+        "category": "Soothing Focus",
+        "id": 1112,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "deep-focus-10-mins-alpha",
+        "imageName": "MiddayDestress",
+        "URL": "Background Tracks/Epidemic/Hypnotic/ES_Return of Light - Christoffer Moe Ditlevsen.mp3"
+    },
+    {
+        "name": "Shamrock",
+        "category": "Soothing Focus",
+        "id": 1113,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "deep-focus-10-mins-alpha",
+        "imageName": "MiddayDestress",
+        "URL": "Background Tracks/Epidemic/Hypnotic/ES_Shamrock - Chelle Ives.mp3"
+    },
+    {
+        "name": "Swelter",
+        "category": "Soothing Focus",
+        "id": 1114,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "deep-focus-10-mins-alpha",
+        "imageName": "MiddayDestress",
+        "URL": "Background Tracks/Epidemic/Hypnotic/ES_Swelter - Aleph One.mp3"
+    },
+    {
+        "name": "The Five Times I Love You",
+        "category": "Soothing Focus",
+        "id": 1115,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "deep-focus-10-mins-alpha",
+        "imageName": "MiddayDestress",
+        "URL": "Background Tracks/Epidemic/Hypnotic/ES_The Five Times I Loved You - Cora Zea.mp3"
+    },
+    {
+        "name": "The Mountain Disconnect",
+        "category": "Soothing Focus",
+        "id": 1116,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "deep-focus-10-mins-alpha",
+        "imageName": "MiddayDestress",
+        "URL": "Background Tracks/Epidemic/Hypnotic/ES_The Mountain Disconnect - Trevor Kowalski.mp3"
+    },
+    {
+        "name": "Through the Hourglass",
+        "category": "Soothing Focus",
+        "id": 1117,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "deep-focus-10-mins-alpha",
+        "imageName": "MiddayDestress",
+        "URL": "Background Tracks/Epidemic/Hypnotic/ES_Through the Hourglass - nothanks.mp3"
+    },
+    {
+        "name": "Trans Siberian Express",
+        "category": "Soothing Focus",
+        "id": 1118,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "deep-focus-10-mins-alpha",
+        "imageName": "MiddayDestress",
+        "URL": "Background Tracks/Epidemic/Hypnotic/ES_Trans Siberian Express - Luella Gren.mp3"
+    },
+    {
+        "name": "A Silver Lining",
+        "category": "Lullaby",
+        "id": 1119,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "deep-focus-10-mins-alpha",
+        "imageName": "MiddayDestress",
+        "URL": "Background Tracks/Epidemic/Lullaby/ES_A Silver Lining - They Dream By Day.mp3"
+    },
+    {
+        "name": "Changes in The Colors",
+        "category": "Lullaby",
+        "id": 1120,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "deep-focus-10-mins-alpha",
+        "imageName": "MiddayDestress",
+        "URL": "Background Tracks/Epidemic/Lullaby/ES_Changes In The Colors - Jonatan Mollberg.mp3"
+    },
+    {
+        "name": "In Stillness",
+        "category": "Lullaby",
+        "id": 1121,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "deep-focus-10-mins-alpha",
+        "imageName": "MiddayDestress",
+        "URL": "Background Tracks/Epidemic/Lullaby/ES_In Stillness - Gavin Luke.mp3"
+    },
+    {
+        "name": "My Little One",
+        "category": "Lullaby",
+        "id": 1122,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "deep-focus-10-mins-alpha",
+        "imageName": "MiddayDestress",
+        "URL": "Background Tracks/Epidemic/Lullaby/ES_My Little One - Rupert Sachs.mp3"
+    },
+    {
+        "name": "Nightingale",
+        "category": "Lullaby",
+        "id": 1123,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "deep-focus-10-mins-alpha",
+        "imageName": "MiddayDestress",
+        "URL": "Background Tracks/Epidemic/Lullaby/ES_Nightingale (Scaled Down Version) - Lo Mimieux.mp3"
+    },
+    {
+        "name": "Reminiscence",
+        "category": "Lullaby",
+        "id": 1124,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "deep-focus-10-mins-alpha",
+        "imageName": "MiddayDestress",
+        "URL": "Background Tracks/Epidemic/Lullaby/ES_Nightingale (Scaled Down Version) - Lo Mimieux.mp3"
+    },
+    {
+        "name": "Somewhere in Between",
+        "category": "Lullaby",
+        "id": 1125,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "deep-focus-10-mins-alpha",
+        "imageName": "MiddayDestress",
+        "URL": "Background Tracks/Epidemic/Lullaby/ES_Somewhere In Between - August Wilhelmsson.mp3"
+    },
+    {
+        "name": "To the moon and beyond",
+        "category": "Lullaby",
+        "id": 1126,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "deep-focus-10-mins-alpha",
+        "imageName": "MiddayDestress",
+        "URL": "Background Tracks/Epidemic/Lullaby/ES_To the Moon and Beyond - Gavin Luke.mp3"
+    },
+    {
+        "name": "What may come",
+        "category": "Lullaby",
+        "id": 1127,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "deep-focus-10-mins-alpha",
+        "imageName": "MiddayDestress",
+        "URL": "Background Tracks/Epidemic/Lullaby/ES_What May Come - Gavin Luke.mp3"
+    },
+    {
+        "name": "Wonderment",
+        "category": "Lullaby",
+        "id": 1128,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "deep-focus-10-mins-alpha",
+        "imageName": "MiddayDestress",
+        "URL": "Background Tracks/Epidemic/Lullaby/ES_Wonderment - Gavin Luke.mp3"
+    },
+    {
+        "name": "Aquatic Planet",
+        "category": "Ocean Dreaming",
+        "id": 1129,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "deep-focus-10-mins-alpha",
+        "imageName": "MiddayDestress",
+        "URL": "Background Tracks/Epidemic/Ocean dreaming/ES_Aquatic Planet - In Dawn.mp3"
+    },
+    {
+        "name": "Deep Aura",
+        "category": "Ocean Dreaming",
+        "id": 1130,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "deep-focus-10-mins-alpha",
+        "imageName": "MiddayDestress",
+        "URL": "Background Tracks/Epidemic/Ocean dreaming/ES_Deep Aura - In Dawn.mp3"
+    },
+    {
+        "name": "Something Magical",
+        "category": "Ocean Dreaming",
+        "id": 1131,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "deep-focus-10-mins-alpha",
+        "imageName": "MiddayDestress",
+        "URL": "Background Tracks/Epidemic/Ocean dreaming/ES_Something Magical - Christian Andersen.mp3"
+    },
+    {
+        "name": "The Big Move",
+        "category": "Ocean Dreaming",
+        "id": 1132,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "deep-focus-10-mins-alpha",
+        "imageName": "MiddayDestress",
+        "URL": "Background Tracks/Epidemic/Ocean dreaming/ES_The Big Move - David Celeste.mp3"
+    },
+    {
+        "name": "The Weight of Water",
+        "category": "Ocean Dreaming",
+        "id": 1133,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "deep-focus-10-mins-alpha",
+        "imageName": "MiddayDestress",
+        "URL": "Background Tracks/Epidemic/Ocean dreaming/ES_The Weight Of Water - Alan Ellis.mp3"
+    },
+    {
+        "name": "Through the vast kelp forest",
+        "category": "Ocean Dreaming",
+        "id": 1134,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "deep-focus-10-mins-alpha",
+        "imageName": "MiddayDestress",
+        "URL": "Background Tracks/Epidemic/Ocean dreaming/ES_Through the Vast Kelp Forest - David Celeste.mp3"
+    },
+    {
+        "name": "Winds and Oceans",
+        "category": "Ocean Dreaming",
+        "id": 1135,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "deep-focus-10-mins-alpha",
+        "imageName": "MiddayDestress",
+        "URL": "Background Tracks/Epidemic/Ocean dreaming/ES_Winds And Oceans - Alan Ellis.mp3"
+    },
+    {
+        "name": "A Place to hide",
+        "category": "Sleepy Soundscapes Album",
+        "id": 1136,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "deep-focus-10-mins-alpha",
+        "imageName": "MiddayDestress",
+        "URL": "Background Tracks/Epidemic/Sleepy Soundscapes/ES_A Place To Hide - Cerulean Skies.mp3"
+    },
+    {
+        "name": "Ahimsa",
+        "category": "Sleepy Soundscapes Album",
+        "id": 1137,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "deep-focus-10-mins-alpha",
+        "imageName": "MiddayDestress",
+        "URL": "Background Tracks/Epidemic/Sleepy Soundscapes/ES_Ahimsa - Calm Shores.mp3"
+    },
+    {
+          "name": "Glowing Apples",
+          "category": "Sleepy Soundscapes Album",
+          "id": 1138,
+          "isFeatured": false,
+          "isFavorite": true,
+          "mp3Name": "deep-focus-10-mins-alpha",
+          "imageName": "MiddayDestress",
+          "URL": "Background Tracks/Epidemic/Sleepy Soundscapes/ES_Glowing Apples - Cerulean Skies.mp3"
+    },
+    {
+          "name": "Iris",
+          "category": "Sleepy Soundscapes Album",
+          "id": 1139,
+          "isFeatured": false,
+          "isFavorite": true,
+          "mp3Name": "deep-focus-10-mins-alpha",
+          "imageName": "MiddayDestress",
+          "URL": "Background Tracks/Epidemic/Sleepy Soundscapes/ES_Iris - By Lotus.mp3"
+    },
+    {
+        "name": "Live beneath",
+        "category": "Sleepy Soundscapes Album",
+        "id": 1140,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "deep-focus-10-mins-alpha",
+        "imageName": "MiddayDestress",
+        "URL": "Background Tracks/Epidemic/Sleepy Soundscapes/ES_Live Beneath - Cerulean Skies.mp3"
+    },
+    {
+        "name": "Set in Stone",
+        "category": "Sleepy Soundscapes Album",
+        "id": 1141,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "deep-focus-10-mins-alpha",
+        "imageName": "MiddayDestress",
+        "URL": "Background Tracks/Epidemic/Sleepy Soundscapes/ES_Set In Stone - Cerulean Skies.mp3"
+    },
+    {
+          "name": "Silent Memories",
+          "category": "Sleepy Soundscapes Album",
+          "id": 1142,
+          "isFeatured": false,
+          "isFavorite": true,
+          "mp3Name": "deep-focus-10-mins-alpha",
+          "imageName": "MiddayDestress",
+          "URL": "Background Tracks/Epidemic/Sleepy Soundscapes/ES_Silent Memories - Calm Shores.mp3"
+    },
+    {
+          "name": "Solitude Island",
+          "category": "Sleepy Soundscapes Album",
+          "id": 1143,
+          "isFeatured": false,
+          "isFavorite": true,
+          "mp3Name": "deep-focus-10-mins-alpha",
+          "imageName": "MiddayDestress",
+          "URL": "Background Tracks/Epidemic/Sleepy Soundscapes/ES_Solitude Island - Calm Shores.mp3"
+    },
+    {
+        "name": "Stellar Dance",
+        "category": "Sleepy Soundscapes Album",
+        "id": 1144,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "deep-focus-10-mins-alpha",
+        "imageName": "MiddayDestress",
+        "URL": "Background Tracks/Epidemic/Sleepy Soundscapes/ES_Stellar Dance - By Lotus.mp3"
+    },
+    {
+          "name": "Steps to Mindfulness",
+          "category": "Sleepy Soundscapes Album",
+          "id": 1145,
+          "isFeatured": false,
+          "isFavorite": true,
+          "mp3Name": "deep-focus-10-mins-alpha",
+          "imageName": "MiddayDestress",
+          "URL": "Background Tracks/Epidemic/Sleepy Soundscapes/ES_Steps To Mindfulness - Calm Shores.mp3"
+    },
+    {
+          "name": "Waiting for nothing",
+          "category": "Sleepy Soundscapes Album",
+          "id": 1146,
+          "isFeatured": false,
+          "isFavorite": true,
+          "mp3Name": "deep-focus-10-mins-alpha",
+          "imageName": "MiddayDestress",
+          "URL": "Background Tracks/Epidemic/Sleepy Soundscapes/ES_Waiting For Nothing - By Lotus.mp3"
+    },
+    {
+        "name": "Disconnect",
+        "category": "Mindfulness",
+        "id": 1147,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "deep-focus-10-mins-alpha",
+        "imageName": "MiddayDestress",
+        "URL": "Background Tracks/Epidemic/Mindfulness/ES_Disconnect - Gavin Luke.mp3"
+    },
+    {
+          "name": "Dream Simulation",
+          "category": "Mindfulness",
+          "id": 1148,
+          "isFeatured": false,
+          "isFavorite": true,
+          "mp3Name": "deep-focus-10-mins-alpha",
+          "imageName": "MiddayDestress",
+          "URL": "Background Tracks/Epidemic/Mindfulness/ES_Dream Simulation - Ave Air.mp3"
+    },
+    {
+          "name": "Tabla Rasa",
+          "category": "Mindfulness",
+          "id": 1149,
+          "isFeatured": false,
+          "isFavorite": true,
+          "mp3Name": "deep-focus-10-mins-alpha",
+          "imageName": "MiddayDestress",
+          "URL": "Background Tracks/Epidemic/Mindfulness/ES_Tabla Rasa - Joseph Beg.mp3"
+    },
+    {
+        "name": "The Everlast",
+        "category": "Mindfulness",
+        "id": 1150,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "deep-focus-10-mins-alpha",
+        "imageName": "MiddayDestress",
+        "URL": "Background Tracks/Epidemic/Mindfulness/ES_The Everlast - Amaranth Cove.mp3"
+    },
+    {
+          "name": "Vandring",
+          "category": "Mindfulness",
+          "id": 1151,
+          "isFeatured": false,
+          "isFavorite": true,
+          "mp3Name": "deep-focus-10-mins-alpha",
+          "imageName": "MiddayDestress",
+          "URL": "Background Tracks/Epidemic/Mindfulness/ES_Vandring - Strom.mp3"
+    },
+    {
+          "name": "April Fool's Day",
+          "category": "Jazz",
+          "id": 1152,
+          "isFeatured": false,
+          "isFavorite": true,
+          "mp3Name": "deep-focus-10-mins-alpha",
+          "imageName": "MiddayDestress",
+          "URL": "Background Tracks/Epidemic/Jazz/ES_April Fools_ Day - Vendla.mp3"
+    },
+    {
+          "name": "Blues for Mark",
+          "category": "Jazz",
+          "id": 1153,
+          "isFeatured": false,
+          "isFavorite": true,
+          "mp3Name": "deep-focus-10-mins-alpha",
+          "imageName": "MiddayDestress",
+          "URL": "Background Tracks/Epidemic/Jazz/ES_Blues for Mark - Vendla.mp3"
+    },
+    {
+          "name": "Cao Vadio",
+          "category": "Jazz",
+          "id": 1154,
+          "isFeatured": false,
+          "isFavorite": true,
+          "mp3Name": "deep-focus-10-mins-alpha",
+          "imageName": "MiddayDestress",
+          "URL": "Background Tracks/Epidemic/Jazz/ES_Cao Vadio - Elevador.mp3"
+    },
+    {
+          "name": "Ignorance is Bliss",
+          "category": "Jazz",
+          "id": 1155,
+          "isFeatured": false,
+          "isFavorite": true,
+          "mp3Name": "deep-focus-10-mins-alpha",
+          "imageName": "MiddayDestress",
+          "URL": "Background Tracks/Epidemic/Jazz/ES_Ignorance Is Bliss - Vendla.mp3"
+    },
+    {
+          "name": "It's your smile",
+          "category": "Jazz",
+          "id": 1156,
+          "isFeatured": false,
+          "isFavorite": true,
+          "mp3Name": "deep-focus-10-mins-alpha",
+          "imageName": "MiddayDestress",
+          "URL": "Background Tracks/Epidemic/Jazz/ES_It_s Your Smile - Wendy Marcini.mp3"
+    },
+    {
+          "name": "Later",
+          "category": "Jazz",
+          "id": 1157,
+          "isFeatured": false,
+          "isFavorite": true,
+          "mp3Name": "deep-focus-10-mins-alpha",
+          "imageName": "MiddayDestress",
+          "URL": "Background Tracks/Epidemic/Jazz/ES_Later - Hara Noda.mp3"
+    },
+    {
+          "name": "Pyramid",
+          "category": "Jazz",
+          "id": 1158,
+          "isFeatured": false,
+          "isFavorite": true,
+          "mp3Name": "deep-focus-10-mins-alpha",
+          "imageName": "MiddayDestress",
+          "URL": "Background Tracks/Epidemic/Jazz/ES_Pyramid - Hara Noda.mp3"
+    },
+    {
+          "name": "Social Distancing",
+          "category": "Jazz",
+          "id": 1159,
+          "isFeatured": false,
+          "isFavorite": true,
+          "mp3Name": "deep-focus-10-mins-alpha",
+          "imageName": "MiddayDestress",
+          "URL": "Background Tracks/Epidemic/Jazz/ES_Social Distancing - Vendla.mp3"
+    },
+    {
+          "name": "The farmer street",
+          "category": "Jazz",
+          "id": 1160,
+          "isFeatured": false,
+          "isFavorite": true,
+          "mp3Name": "deep-focus-10-mins-alpha",
+          "imageName": "MiddayDestress",
+          "URL": "Background Tracks/Epidemic/Jazz/ES_The Farmer Street - Vendla.mp3"
+    },
+    {
+          "name": "Vem Agora",
+          "category": "Jazz",
+          "id": 1161,
+          "isFeatured": false,
+          "isFavorite": true,
+          "mp3Name": "deep-focus-10-mins-alpha",
+          "imageName": "MiddayDestress",
+          "URL": "Background Tracks/Epidemic/Jazz/ES_Vem Agora - Elevador.mp3"
+    },
+    {
+          "name": "Jazz",
+          "category": "Deep Focus",
+          "id": 1162,
+          "isFeatured": false,
+          "isFavorite": true,
+          "mp3Name": "deep-focus-10-mins-alpha",
+          "imageName": "MiddayDestress"
+    },
+    {
+          "name": "Acoustic Focus",
+          "category": "Deep Focus",
+          "id": 1163,
+          "isFeatured": false,
+          "isFavorite": true,
+          "mp3Name": "deep-focus-10-mins-alpha",
+          "imageName": "MiddayDestress"
+    },
+    {
+          "name": "EDM Focus",
+          "category": "Deep Focus",
+          "id": 1164,
+          "isFeatured": false,
+          "isFavorite": true,
+          "mp3Name": "deep-focus-10-mins-alpha",
+          "imageName": "MiddayDestress"
+    },
+    {
+          "name": "Focus Beats Album",
+          "category": "Deep Focus",
+          "id": 1165,
+          "isFeatured": false,
+          "isFavorite": true,
+          "mp3Name": "deep-focus-10-mins-alpha",
+          "imageName": "MiddayDestress"
+    },
+    {
+          "name": "Soothing Focus",
+          "category": "Deep Focus",
+          "id": 1166,
+          "isFeatured": false,
+          "isFavorite": true,
+          "mp3Name": "deep-focus-10-mins-alpha",
+          "imageName": "MiddayDestress"
+    },
+    {
+          "name": "Lullaby",
+          "category": "Sleep",
+          "id": 1167,
+          "isFeatured": false,
+          "isFavorite": true,
+          "mp3Name": "deep-focus-10-mins-alpha",
+          "imageName": "MiddayDestress"
+    },
+    {
+          "name": "Ocean Dreaming",
+          "category": "Sleep",
+          "id": 1168,
+          "isFeatured": false,
+          "isFavorite": true,
+          "mp3Name": "deep-focus-10-mins-alpha",
+          "imageName": "MiddayDestress"
+    },
+    {
+          "name": "Sleepy Soundscapes Album",
+          "category": "Sleep",
+          "id": 1169,
+          "isFeatured": false,
+          "isFavorite": true,
+          "mp3Name": "deep-focus-10-mins-alpha",
+          "imageName": "MiddayDestress"
+    },
+    {
+          "name": "Mindfulness",
+          "category": "Meditation",
+          "id": 1170,
+          "isFeatured": false,
+          "isFavorite": true,
+          "mp3Name": "deep-focus-10-mins-alpha",
+          "imageName": "MiddayDestress"
+    },
+    {
+          "name": "Fitness Motivational",
+          "category": "Fitness Category",
+          "id": 1171,
+          "isFeatured": false,
+          "isFavorite": true,
+          "mp3Name": "deep-focus-10-mins-alpha",
+          "imageName": "MiddayDestress"
+    },
+    {
+          "name": "Nature",
+          "category": "Free",
+          "id": 1172,
+          "isFeatured": false,
+          "isFavorite": true,
+          "mp3Name": "deep-focus-10-mins-alpha",
+          "imageName": "MiddayDestress"
+    },
+    {
+          "name": "Tibetan",
+          "category": "Meditation Nature",
+          "id": 1173,
+          "isFeatured": false,
+          "isFavorite": true,
+          "mp3Name": "Tibetan 10 mins",
+          "imageName": "MiddayDestress",
+          "URL": "Background Tracks/Nature/Tibetan 10 mins.mp3"
+    },
+    {
+          "name": "Full Circle",
+          "category": "Focus Beats Album",
+          "id": 1174,
+          "isFeatured": false,
+          "isFavorite": true,
+          "mp3Name": "deep-focus-10-mins-alpha",
+          "imageName": "MiddayDestress",
+          "URL": "Background Tracks/Epidemic/Focus Beats/ES_Full Circle (Instrumental Version) - Tommy Ljungberg.mp3"
+    },
+    {
+          "name": "Lesson Learned",
+          "category": "Focus Beats Album",
+          "id": 1175,
+          "isFeatured": false,
+          "isFavorite": true,
+          "mp3Name": "deep-focus-10-mins-alpha",
+          "imageName": "MiddayDestress",
+          "URL": "Background Tracks/Epidemic/Focus Beats/ES_Lesson Learned (Instrumental Version) - Tommy Ljungberg.mp3"
+    },
+    {
+          "name": "Maria",
+          "category": "Focus Beats Album",
+          "id": 1176,
+          "isFeatured": false,
+          "isFavorite": true,
+          "mp3Name": "deep-focus-10-mins-alpha",
+          "imageName": "MiddayDestress",
+          "URL": "Background Tracks/Epidemic/Focus Beats/ES_Maria (Instrumental Version) - Pabi Sonko.mp3"
+    },
+    {
+          "name": "Move to the rhythm",
+          "category": "Focus Beats Album",
+          "id": 1177,
+          "isFeatured": false,
+          "isFavorite": true,
+          "mp3Name": "deep-focus-10-mins-alpha",
+          "imageName": "MiddayDestress",
+          "URL": "Background Tracks/Epidemic/Focus Beats/ES_Move to the Rhythm (Instrumental Version) - spring gang.mp3"
+    },
+    {
+          "name": "Say More",
+          "category": "Focus Beats Album",
+          "id": 1178,
+          "isFeatured": false,
+          "isFavorite": true,
+          "mp3Name": "deep-focus-10-mins-alpha",
+          "imageName": "MiddayDestress",
+          "URL": "Background Tracks/Epidemic/Focus Beats/ES_Say More (Instrumental Version) - Tilden Parc.mp3"
+    },
+    {
+          "name": "The Right Thing to Do",
+          "category": "Focus Beats Album",
+          "id": 1179,
+          "isFeatured": false,
+          "isFavorite": true,
+          "mp3Name": "deep-focus-10-mins-alpha",
+          "imageName": "MiddayDestress",
+          "URL": "Background Tracks/Epidemic/Focus Beats/ES_The Right Thing to Do (Instrumental Version) - Andy Delos Santos.mp3"
+    },
+    {
+          "name": "Broken Toys",
+          "category": "Sleepy Acoustics",
+          "id": 1180,
+          "isFeatured": false,
+          "isFavorite": true,
+          "mp3Name": "deep-focus-10-mins-alpha",
+          "imageName": "MiddayDestress",
+          "URL": "Background Tracks/Epidemic/Sleepy Acoustics/ES_Broken Toys - Tricycle Riot.mp3"
+    },
+    {
+          "name": "Little Bee",
+          "category": "Sleepy Acoustics",
+          "id": 1181,
+          "isFeatured": false,
+          "isFavorite": true,
+          "mp3Name": "deep-focus-10-mins-alpha",
+          "imageName": "MiddayDestress",
+          "URL": "Background Tracks/Epidemic/Sleepy Acoustics/ES_Little Bee - baaily.mp3"
+    },
+    {
+          "name": "My Little One",
+          "category": "Sleepy Acoustics",
+          "id": 1182,
+          "isFeatured": false,
+          "isFavorite": true,
+          "mp3Name": "deep-focus-10-mins-alpha",
+          "imageName": "MiddayDestress",
+          "URL": "Background Tracks/Epidemic/Sleepy Acoustics/ES_My Little One - Rupert Sachs.mp3"
+    },
+    {
+          "name": "Near and Far",
+          "category": "Sleepy Acoustics",
+          "id": 1183,
+          "isFeatured": false,
+          "isFavorite": true,
+          "mp3Name": "deep-focus-10-mins-alpha",
+          "imageName": "MiddayDestress",
+          "URL": "Background Tracks/Epidemic/Sleepy Acoustics/ES_Near and Far - Josef Bel Habib.mp3"
+    },
+    {
+          "name": "Nightingale",
+          "category": "Sleepy Acoustics",
+          "id": 1184,
+          "isFeatured": false,
+          "isFavorite": true,
+          "mp3Name": "deep-focus-10-mins-alpha",
+          "imageName": "MiddayDestress",
+          "URL": "Background Tracks/Epidemic/Sleepy Acoustics/ES_Nightingale (Scaled Down Version) - Lo Mimieux.mp3"
+    },
+    {
+          "name": "Reminiscence",
+          "category": "Sleepy Acoustics",
+          "id": 1185,
+          "isFeatured": false,
+          "isFavorite": true,
+          "mp3Name": "deep-focus-10-mins-alpha",
+          "imageName": "MiddayDestress",
+          "URL": "Background Tracks/Epidemic/Sleepy Acoustics/ES_Reminiscence - Johannes Bornlof.mp3"
+    },
+    {
+          "name": "Sandman's Lullaby",
+          "category": "Sleepy Acoustics",
+          "id": 1186,
+          "isFeatured": false,
+          "isFavorite": true,
+          "mp3Name": "deep-focus-10-mins-alpha",
+          "imageName": "MiddayDestress",
+          "URL": "Background Tracks/Epidemic/Sleepy Acoustics/ES_Sandman_s Lullaby - Rupert Sachs.mp3"
+    },
+    {
+          "name": "Someday, Sometime",
+          "category": "Sleepy Acoustics",
+          "id": 1187,
+          "isFeatured": false,
+          "isFavorite": true,
+          "mp3Name": "deep-focus-10-mins-alpha",
+          "imageName": "MiddayDestress",
+          "URL": "Background Tracks/Epidemic/Sleepy Acoustics/ES_Someday, Sometime - Vincent _ A Secret.mp3"
+    },
+    {
+          "name": "Somewhere In Between",
+          "category": "Sleepy Acoustics",
+          "id": 1188,
+          "isFeatured": false,
+          "isFavorite": true,
+          "mp3Name": "deep-focus-10-mins-alpha",
+          "imageName": "MiddayDestress",
+          "URL": "Background Tracks/Epidemic/Sleepy Acoustics/ES_Somewhere In Between - August Wilhelmsson.mp3"
+    },
+    {
+          "name": "To the Moon and Beyond",
+          "category": "Sleepy Acoustics",
+          "id": 1189,
+          "isFeatured": false,
+          "isFavorite": true,
+          "mp3Name": "deep-focus-10-mins-alpha",
+          "imageName": "MiddayDestress",
+          "URL": "Background Tracks/Epidemic/Sleepy Acoustics/ES_To the Moon and Beyond - Gavin Luke.mp3"
+    },
+    {
+          "name": "Tomorrow is a mystery",
+          "category": "Sleepy Acoustics",
+          "id": 1190,
+          "isFeatured": false,
+          "isFavorite": true,
+          "mp3Name": "deep-focus-10-mins-alpha",
+          "imageName": "MiddayDestress",
+          "URL": "Background Tracks/Epidemic/Sleepy Acoustics/ES_Tomorrow Is a Mystery - Sun Chime.mp3"
+    },
+    {
+          "name": "Twinkle twinkle little star",
+          "category": "Sleepy Acoustics",
+          "id": 1191,
+          "isFeatured": false,
+          "isFavorite": true,
+          "mp3Name": "deep-focus-10-mins-alpha",
+          "imageName": "MiddayDestress",
+          "URL": "Background Tracks/Epidemic/Sleepy Acoustics/ES_Twinkle, Twinkle, Little Star - Traditional.mp3"
+    },
+    {
+          "name": "What may come",
+          "category": "Sleepy Acoustics",
+          "id": 1192,
+          "isFeatured": false,
+          "isFavorite": true,
+          "mp3Name": "deep-focus-10-mins-alpha",
+          "imageName": "MiddayDestress",
+          "URL": "Background Tracks/Epidemic/Sleepy Acoustics/ES_What May Come - Gavin Luke.mp3"
+    },
+    {
+          "name": "Wishes",
+          "category": "Sleepy Acoustics",
+          "id": 1193,
+          "isFeatured": false,
+          "isFavorite": true,
+          "mp3Name": "deep-focus-10-mins-alpha",
+          "imageName": "MiddayDestress",
+          "URL": "Background Tracks/Epidemic/Sleepy Acoustics/ES_Wishes - baaily.mp3"
+    },
+    {
+          "name": "Wonderment",
+          "category": "Sleepy Acoustics",
+          "id": 1194,
+          "isFeatured": false,
+          "isFavorite": true,
+          "mp3Name": "deep-focus-10-mins-alpha",
+          "imageName": "MiddayDestress",
+          "URL": "Background Tracks/Epidemic/Sleepy Acoustics/ES_Wonderment - Gavin Luke.mp3"
+    },
+    {
+        "name": "Sleepy Acoustics",
+        "category": "Sleep",
+        "id": 1195,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "deep-focus-10-mins-alpha",
+        "imageName": "MiddayDestress"
+    },
+    {
+        "name": "Relaxing Lullabies",
+        "category": "Sleep",
+        "id": 1196,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "deep-focus-10-mins-alpha",
+        "imageName": "MiddayDestress"
+    },
+    {
+        "name": "Hypnotic Focus",
+        "category": "Deep Focus",
+        "id": 1197,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "deep-focus-10-mins-alpha",
+        "imageName": "MiddayDestress"
+    },
+    {
+          "name": "My Little One",
+          "category": "Relaxing Lullabies",
+          "id": 1198,
+          "isFeatured": false,
+          "isFavorite": true,
+          "mp3Name": "ES_My Little One - Rupert Sachs",
+          "imageName": "MiddayDestress",
+          "URL": "Background Tracks/Epidemic/Lullaby/ES_My Little One - Rupert Sachs.mp3"
+    },
+    {
+          "name": "Changes in the color",
+          "category": "Relaxing Lullabies",
+          "id": 1199,
+          "isFeatured": false,
+          "isFavorite": true,
+          "mp3Name": "ES_Changes In The Colors - Jonatan Mollberg",
+          "imageName": "MiddayDestress",
+          "URL": "Background Tracks/Epidemic/Lullaby/ES_Changes In The Colors - Jonatan Mollberg.mp3"
+    },
+    {
+          "name": "A silver lining",
+          "category": "Relaxing Lullabies",
+          "id": 1200,
+          "isFeatured": false,
+          "isFavorite": true,
+          "mp3Name": "ES_A Silver Lining - They Dream By Day",
+          "imageName": "MiddayDestress",
+          "URL": "Background Tracks/Epidemic/Lullaby/ES_A Silver Lining - They Dream By Day.mp3"
+    },
+    {
+          "name": "In Stillness",
+          "category": "Relaxing Lullabies",
+          "id": 1201,
+          "isFeatured": false,
+          "isFavorite": true,
+          "mp3Name": "ES_In Stillness - Gavin Luke",
+          "imageName": "MiddayDestress",
+          "URL": "Background Tracks/Epidemic/Lullaby/ES_In Stillness - Gavin Luke.mp3"
+    },
+    {
+          "name": "Micro Evolution",
+          "category": "Hypnotic Focus",
+          "id": 1202,
+          "isFeatured": false,
+          "isFavorite": true,
+          "mp3Name": "ES_Micro Evolution - Howard Harper-Barnes",
+          "imageName": "MiddayDestress",
+          "URL": "Background Tracks/Epidemic/Hypnotic/ES_Micro Evolution - Howard Harper-Barnes.mp3"
+    },
+    {
+          "name": "Fresh Perspective",
+          "category": "Hypnotic Focus",
+          "id": 1203,
+          "isFeatured": false,
+          "isFavorite": true,
+          "mp3Name": "ES_Fresh Perspective - Megan Wofford",
+          "imageName": "MiddayDestress",
+          "URL": "Background Tracks/Epidemic/Hypnotic/ES_Fresh Perspective - Megan Wofford.mp3"
+    },
+    {
+          "name": "It's your smile",
+          "category": "Hypnotic Focus",
+          "id": 1204,
+          "isFeatured": false,
+          "isFavorite": true,
+          "mp3Name": "ES_It_s Your Smile - Wendy Marcini",
+          "imageName": "MiddayDestress",
+          "URL": "Background Tracks/Epidemic/Hypnotic/ES_It_s Your Smile - Wendy Marcini.mp3"
+    },
+    {
+          "name": "Prescient",
+          "category": "Hypnotic Focus",
+          "id": 1205,
+          "isFeatured": false,
+          "isFavorite": true,
+          "mp3Name": "ES_Prescient - Howard Harper-Barnes",
+          "imageName": "MiddayDestress",
+          "URL": "Background Tracks/Epidemic/Hypnotic/ES_Prescient - Howard Harper-Barnes.mp3"
+    },
+    {
+          "name": "Mt.Fuji",
+          "category": "Hypnotic Focus",
+          "id": 1206,
+          "isFeatured": false,
+          "isFavorite": true,
+          "mp3Name": "ES_Mt. Fuji - Ooyy",
+          "imageName": "MiddayDestress",
+          "URL": "Background Tracks/Epidemic/Hypnotic/ES_Mt. Fuji - Ooyy.mp3"
+    },
+    {
+          "name": "Palm",
+          "category": "Hypnotic Focus",
+          "id": 1207,
+          "isFeatured": false,
+          "isFavorite": true,
+          "mp3Name": "ES_Palm - Trevor Kowalski",
+          "imageName": "MiddayDestress",
+          "URL": "Background Tracks/Epidemic/Hypnotic/ES_Palm - Trevor Kowalski.mp3"
+    },
+    {
+          "name": "Relax Breathing",
+          "category": "Meditation",
+          "id": 1208,
+          "isFeatured": false,
+          "isFavorite": true,
+          "mp3Name": "ES_Palm - Trevor Kowalski",
+          "imageName": "MiddayDestress"
+    },
+    {
+          "name": "Japanese Spa",
+          "category": "Meditation",
+          "id": 1209,
+          "isFeatured": false,
+          "isFavorite": true,
+          "mp3Name": "ES_Palm - Trevor Kowalski",
+          "imageName": "MiddayDestress"
+    },
+    {
+          "name": "City Breath Control",
+          "category": "Relax Breathing",
+          "id": 1210,
+          "isFeatured": false,
+          "isFavorite": true,
+          "mp3Name": "ES_Palm - Trevor Kowalski",
+          "imageName": "MiddayDestress",
+          "URL": "Background Tracks/Epidemic/Relax Breathing/ES_City Breath Control - Halcyon Lounge.mp3"
+    },
+    {
+          "name": "Hotel Traveller",
+          "category": "Relax Breathing",
+          "id": 1211,
+          "isFeatured": false,
+          "isFavorite": true,
+          "mp3Name": "ES_Palm - Trevor Kowalski",
+          "imageName": "MiddayDestress",
+          "URL": "Background Tracks/Epidemic/Relax Breathing/ES_Hotel Traveller - Michael Keeps.mp3"
+    },
+    {
+          "name": "Incoherence",
+          "category": "Relax Breathing",
+          "id": 1212,
+          "isFeatured": false,
+          "isFavorite": true,
+          "mp3Name": "ES_Palm - Trevor Kowalski",
+          "imageName": "MiddayDestress",
+          "URL": "Background Tracks/Epidemic/Relax Breathing/ES_Incoherence - Giants_ Nest.mp3"
+    },
+    {
+          "name": "Sun Melt Waves",
+          "category": "Relax Breathing",
+          "id": 1213,
+          "isFeatured": false,
+          "isFavorite": true,
+          "mp3Name": "ES_Palm - Trevor Kowalski",
+          "imageName": "MiddayDestress",
+          "URL": "Background Tracks/Epidemic/Relax Breathing/ES_Sun Melt Waves - Oman.mp3"
+    },
+    {
+          "name": "The Big Easy",
+          "category": "Relax Breathing",
+          "id": 1214,
+          "isFeatured": false,
+          "isFavorite": true,
+          "mp3Name": "ES_Palm - Trevor Kowalski",
+          "imageName": "MiddayDestress",
+          "URL": "Background Tracks/Epidemic/Relax Breathing/ES_The Big Easy - Bozooka.mp3"
+    },
+    {
+          "name": "Aiko",
+          "category": "Japanese Spa",
+          "id": 1215,
+          "isFeatured": false,
+          "isFavorite": true,
+          "mp3Name": "ES_Palm - Trevor Kowalski",
+          "imageName": "MiddayDestress",
+          "URL": "Background Tracks/Epidemic/Japanese Spa/ES_Aiko - Calm Shores.mp3"
+    },
+    {
+          "name": "Genki Desu",
+          "category": "Japanese Spa",
+          "id": 1216,
+          "isFeatured": false,
+          "isFavorite": true,
+          "mp3Name": "ES_Palm - Trevor Kowalski",
+          "imageName": "MiddayDestress",
+          "URL": "Background Tracks/Epidemic/Japanese Spa/ES_Genki Desu - Mandala Dreams.mp3"
+    },
+    {
+          "name": "Hokkaido Solitude",
+          "category": "Japanese Spa",
+          "id": 1217,
+          "isFeatured": false,
+          "isFavorite": true,
+          "mp3Name": "ES_Palm - Trevor Kowalski",
+          "imageName": "MiddayDestress",
+          "URL": "Background Tracks/Epidemic/Japanese Spa/ES_Hokkaido Solitude - Mandala Dreams.mp3"
+    },
+    {
+          "name": "Ittekimasu",
+          "category": "Japanese Spa",
+          "id": 1218,
+          "isFeatured": false,
+          "isFavorite": true,
+          "mp3Name": "ES_Palm - Trevor Kowalski",
+          "imageName": "MiddayDestress",
+          "URL": "Background Tracks/Epidemic/Japanese Spa/ES_Ittekimasu - Mandala Dreams.mp3"
+    },
+    {
+          "name": "Like a butterfly",
+          "category": "Japanese Spa",
+          "id": 1219,
+          "isFeatured": false,
+          "isFavorite": true,
+          "mp3Name": "ES_Palm - Trevor Kowalski",
+          "imageName": "MiddayDestress",
+          "URL": "Background Tracks/Epidemic/Japanese Spa/ES_Like A Butterfly - Mandala Dreams.mp3"
+    },
+    {
+          "name": "Misu",
+          "category": "Japanese Spa",
+          "id": 1220,
+          "isFeatured": false,
+          "isFavorite": true,
+          "mp3Name": "ES_Palm - Trevor Kowalski",
+          "imageName": "MiddayDestress",
+          "URL": "Background Tracks/Epidemic/Japanese Spa/ES_Misu - Calm Shores.mp3"
+    },
+    {
+          "name": "Origami Voyage",
+          "category": "Japanese Spa",
+          "id": 1221,
+          "isFeatured": false,
+          "isFavorite": true,
+          "mp3Name": "ES_Palm - Trevor Kowalski",
+          "imageName": "MiddayDestress",
+          "URL": "Background Tracks/Epidemic/Japanese Spa/ES_Origami Voyage - Mandala Dreams.mp3"
+    },
+    {
+          "name": "Sayonara Sun",
+          "category": "Japanese Spa",
+          "id": 1222,
+          "isFeatured": false,
+          "isFavorite": true,
+          "mp3Name": "ES_Palm - Trevor Kowalski",
+          "imageName": "MiddayDestress",
+          "URL": "Background Tracks/Epidemic/Japanese Spa/ES_Sayonara Sun - Mandala Dreams.mp3"
+    },
+    {
+          "name": "Solitude Island",
+          "category": "Japanese Spa",
+          "id": 1223,
+          "isFeatured": false,
+          "isFavorite": true,
+          "mp3Name": "ES_Palm - Trevor Kowalski",
+          "imageName": "MiddayDestress",
+          "URL": "Background Tracks/Epidemic/Japanese Spa/ES_Solitude Island - Calm Shores.mp3"
+    },
+    {
+          "name": "Spirit of Fukushima",
+          "category": "Japanese Spa",
+          "id": 1224,
+          "isFeatured": false,
+          "isFavorite": true,
+          "mp3Name": "ES_Palm - Trevor Kowalski",
+          "imageName": "MiddayDestress",
+          "URL": "Background Tracks/Epidemic/Japanese Spa/ES_Spirit Of Fukushima - Mandala Dreams.mp3"
+    },
+    {
+          "name": "State of Zen",
+          "category": "Japanese Spa",
+          "id": 1225,
+          "isFeatured": false,
+          "isFavorite": true,
+          "mp3Name": "ES_Palm - Trevor Kowalski",
+          "imageName": "MiddayDestress",
+          "URL": "Background Tracks/Epidemic/Japanese Spa/ES_State of Zen - Mandala Dreams.mp3"
+    },
+    {
+          "name": "Sumimassen",
+          "category": "Japanese Spa",
+          "id": 1226,
+          "isFeatured": false,
+          "isFavorite": true,
+          "mp3Name": "ES_Palm - Trevor Kowalski",
+          "imageName": "MiddayDestress",
+          "URL": "Background Tracks/Epidemic/Japanese Spa/ES_Sumimasen - Calm Shores.mp3"
+    },
+    {
+          "name": "Ahimsa",
+          "category": "Calm Shores",
+          "id": 1227,
+          "isFeatured": false,
+          "isFavorite": true,
+          "mp3Name": "ES_Palm - Trevor Kowalski",
+          "imageName": "MiddayDestress",
+          "URL": "Background Tracks/Epidemic/Calm Shores/ES_Ahimsa - Calm Shores.mp3"
+    },
+    {
+          "name": "Silent Memories",
+          "category": "Calm Shores",
+          "id": 1228,
+          "isFeatured": false,
+          "isFavorite": true,
+          "mp3Name": "ES_Palm - Trevor Kowalski",
+          "imageName": "MiddayDestress",
+          "URL": "Background Tracks/Epidemic/Calm Shores/ES_Silent Memories - Calm Shores.mp3"
+    },
+    {
+          "name": "Solitude Island",
+          "category": "Calm Shores",
+          "id": 1229,
+          "isFeatured": false,
+          "isFavorite": true,
+          "mp3Name": "ES_Palm - Trevor Kowalski",
+          "imageName": "MiddayDestress",
+          "URL": "Background Tracks/Epidemic/Calm Shores/ES_Solitude Island - Calm Shores.mp3"
+    },
+    {
+          "name": "Steps to mindfulness",
+          "category": "Calm Shores",
+          "id": 1230,
+          "isFeatured": false,
+          "isFavorite": true,
+          "mp3Name": "ES_Palm - Trevor Kowalski",
+          "imageName": "MiddayDestress",
+          "URL": "Background Tracks/Epidemic/Calm Shores/ES_Steps To Mindfulness - Calm Shores.mp3"
+    },
+    {
+          "name": "A Place to hide",
+          "category": "Dreamy Slumber",
+          "id": 1231,
+          "isFeatured": false,
+          "isFavorite": true,
+          "mp3Name": "ES_Palm - Trevor Kowalski",
+          "imageName": "MiddayDestress",
+          "URL": "Background Tracks/Epidemic/Dreamy Slumber/ES_A Place To Hide - Cerulean Skies.mp3"
+    },
+    {
+          "name": "Glowing Apples",
+          "category": "Dreamy Slumber",
+          "id": 1232,
+          "isFeatured": false,
+          "isFavorite": true,
+          "mp3Name": "ES_Palm - Trevor Kowalski",
+          "imageName": "MiddayDestress",
+          "URL": "Background Tracks/Epidemic/Dreamy Slumber/ES_Glowing Apples - Cerulean Skies.mp3"
+    },
+    {
+          "name": "Iris",
+          "category": "Dreamy Slumber",
+          "id": 1233,
+          "isFeatured": false,
+          "isFavorite": true,
+          "mp3Name": "ES_Palm - Trevor Kowalski",
+          "imageName": "MiddayDestress",
+          "URL": "Background Tracks/Epidemic/Dreamy Slumber/ES_Iris - By Lotus.mp3"
+    },
+    {
+          "name": "Live Beneath",
+          "category": "Dreamy Slumber",
+          "id": 1234,
+          "isFeatured": false,
+          "isFavorite": true,
+          "mp3Name": "ES_Palm - Trevor Kowalski",
+          "imageName": "MiddayDestress",
+          "URL": "Background Tracks/Epidemic/Dreamy Slumber/ES_Live Beneath - Cerulean Skies.mp3"
+    },
+    {
+          "name": "Set in Stone",
+          "category": "Dreamy Slumber",
+          "id": 1235,
+          "isFeatured": false,
+          "isFavorite": true,
+          "mp3Name": "ES_Palm - Trevor Kowalski",
+          "imageName": "MiddayDestress",
+          "URL": "Background Tracks/Epidemic/Dreamy Slumber/ES_Set In Stone - Cerulean Skies.mp3"
+    },
+    {
+          "name": "Stellar Dance",
+          "category": "Dreamy Slumber",
+          "id": 1236,
+          "isFeatured": false,
+          "isFavorite": true,
+          "mp3Name": "ES_Palm - Trevor Kowalski",
+          "imageName": "MiddayDestress",
+          "URL": "Background Tracks/Epidemic/Dreamy Slumber/ES_Stellar Dance - By Lotus.mp3"
+    },
+    {
+          "name": "Waiting For Nothing",
+          "category": "Dreamy Slumber",
+          "id": 1237,
+          "isFeatured": false,
+          "isFavorite": true,
+          "mp3Name": "ES_Palm - Trevor Kowalski",
+          "imageName": "MiddayDestress",
+          "URL": "Background Tracks/Epidemic/Dreamy Slumber/ES_Waiting For Nothing - By Lotus.mp3"
+    },
+    {
+        "name": "Dreamy Slumber",
+        "category": "Sleep",
+        "id": 1238,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "deep-focus-10-mins-alpha",
+        "imageName": "MiddayDestress"
+    },
+    {
+        "name": "Calm Shores",
+        "category": "Meditation",
+        "id": 1239,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "deep-focus-10-mins-alpha",
+        "imageName": "MiddayDestress"
+    },
+    {
+          "name": "Gift Wrapping",
+          "category": "ASMR",
+          "id": 1240,
+          "isFeatured": false,
+          "isFavorite": true,
+          "mp3Name": "Gift wrapping ASMR",
+          "imageName": "MiddayDestress",
+          "URL": "ASMR/Sound/ES_ASMR Gift Wrapping - Autonomic Sensations.mp3"
+    },
+    {
+          "name": "Soda Water",
+          "category": "ASMR",
+          "id": 1241,
+          "isFeatured": false,
+          "isFavorite": true,
+          "mp3Name": "Soda Water ASMR",
+          "imageName": "MiddayDestress",
+          "URL": "ASMR/Sound/ES_ASMR Soda Water - Autonomic Sensations.mp3"
+    },
+    {
+        "name": "Stone Beach Waves",
+        "category": "ASMR",
+        "id": 1242,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "Stone beach waves ASMR",
+        "imageName": "MiddayDestress",
+        "URL": "ASMR/Sound/ES_ASMR Stone Beach Waves - Autonomic Sensations.mp3"
+    },
+    {
+        "name": "Bubble Wrap",
+        "category": "ASMR",
+        "id": 1243,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "Bubble Wrap ASMR",
+        "imageName": "MiddayDestress",
+        "URL": "ASMR/Sound/ES_Playing with Bubble Wrap - Wave Function.mp3"
+    },
+    {
+        "name": "ASMR",
+        "category": "Sleep",
+        "id": 1244,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "deep-focus-10-mins-alpha",
+        "imageName": "MiddayDestress"
+    },
+    {
+        "name": "ASMR",
+        "category": "Deep Focus",
+        "id": 1245,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "deep-focus-10-mins-alpha",
+        "imageName": "MiddayDestress"
+    },
+    {
+        "name": "Soothing Beats",
+        "category": "Deep Focus",
+        "id": 1246,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "deep-focus-10-mins-alpha",
+        "imageName": "MiddayDestress"
+    },
+    {
+        "name": "Laid Back Focus Beats",
+        "category": "Deep Focus",
+        "id": 1247,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "deep-focus-10-mins-alpha",
+        "imageName": "MiddayDestress"
+    },
+    {
+        "name": "Nature Lullabies",
+        "category": "Sleep",
+        "id": 1248,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "deep-focus-10-mins-alpha",
+        "imageName": "MiddayDestress"
+    },
+    {
+        "name": "Calm Breathing",
+        "category": "Meditation",
+        "id": 1249,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "deep-focus-10-mins-alpha",
+        "imageName": "MiddayDestress"
+    },
+    {
+        "name": "Trans Siberian Express",
+        "category": "Soothing Beats",
+        "id": 1250,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "Bubble Wrap ASMR",
+        "imageName": "MiddayDestress",
+        "URL": "Background Tracks/Epidemic/Soothing Beats/ES_Trans Siberian Express - Luella Gren.mp3"
+    },
+    {
+        "name": "Through the Hourglass",
+        "category": "Soothing Beats",
+        "id": 1251,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "Bubble Wrap ASMR",
+        "imageName": "MiddayDestress",
+        "URL": "Background Tracks/Epidemic/Soothing Beats/ES_Through the Hourglass - nothanks.mp3"
+    },
+    {
+        "name": "The Mountain Disconnect",
+        "category": "Soothing Beats",
+        "id": 1252,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "Bubble Wrap ASMR",
+        "imageName": "MiddayDestress",
+        "URL": "Background Tracks/Epidemic/Soothing Beats/ES_The Mountain Disconnect - Trevor Kowalski.mp3"
+    },
+    {
+        "name": "The Five Times I Loved You",
+        "category": "Soothing Beats",
+        "id": 1253,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "Bubble Wrap ASMR",
+        "imageName": "MiddayDestress",
+        "URL": "Background Tracks/Epidemic/Soothing Beats/ES_The Five Times I Loved You - Cora Zea.mp3"
+    },
+    {
+        "name": "Swelter",
+        "category": "Soothing Beats",
+        "id": 1254,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "Bubble Wrap ASMR",
+        "imageName": "MiddayDestress",
+        "URL": "Background Tracks/Epidemic/Soothing Beats/ES_Swelter - Aleph One.mp3"
+    },
+    {
+        "name": "Shamrock",
+        "category": "Soothing Beats",
+        "id": 1255,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "Bubble Wrap ASMR",
+        "imageName": "MiddayDestress",
+        "URL": "Background Tracks/Epidemic/Soothing Beats/ES_Shamrock - Chelle Ives.mp3"
+    },
+    {
+        "name": "Return of Light",
+        "category": "Soothing Beats",
+        "id": 1256,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "Bubble Wrap ASMR",
+        "imageName": "MiddayDestress",
+        "URL": "Background Tracks/Epidemic/Soothing Beats/ES_Return of Light - Christoffer Moe Ditlevsen.mp3"
+    },
+    {
+        "name": "Parallel Universe",
+        "category": "Soothing Beats",
+        "id": 1257,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "Bubble Wrap ASMR",
+        "imageName": "MiddayDestress",
+        "URL": "Background Tracks/Epidemic/Soothing Beats/ES_Parallel Universe - Lonov .mp3"
+    },
+    {
+        "name": "Numb",
+        "category": "Soothing Beats",
+        "id": 1258,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "Bubble Wrap ASMR",
+        "imageName": "MiddayDestress",
+        "URL": "Background Tracks/Epidemic/Soothing Beats/ES_Numb - Nihoni.mp3"
+    },
+    {
+        "name": "Monkey Mind",
+        "category": "Soothing Beats",
+        "id": 1259,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "Bubble Wrap ASMR",
+        "imageName": "MiddayDestress",
+        "URL": "Background Tracks/Epidemic/Soothing Beats/ES_Monkey Mind - Veevel.mp3"
+    },
+    {
+        "name": "Late Arrivals",
+        "category": "Soothing Beats",
+        "id": 1260,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "Bubble Wrap ASMR",
+        "imageName": "MiddayDestress",
+        "URL": "Background Tracks/Epidemic/Soothing Beats/ES_Late Arrivals - Lonov .mp3"
+    },
+    {
+        "name": "Gold among the Sand",
+        "category": "Soothing Beats",
+        "id": 1261,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "Bubble Wrap ASMR",
+        "imageName": "MiddayDestress",
+        "URL": "Background Tracks/Epidemic/Soothing Beats/ES_Gold among the Sand - Trevor Kowalski.mp3"
+    },
+    {
+        "name": "Avinam",
+        "category": "Soothing Beats",
+        "id": 1262,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "Bubble Wrap ASMR",
+        "imageName": "MiddayDestress",
+        "URL": "Background Tracks/Epidemic/Soothing Beats/ES_Avinam - Valante.mp3"
+    },
+    {
+        "name": "Abstractions",
+        "category": "Soothing Beats",
+        "id": 1263,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "Bubble Wrap ASMR",
+        "imageName": "MiddayDestress",
+        "URL": "Background Tracks/Epidemic/Soothing Beats/ES_Abstractions - Aleph One.mp3"
+    },
+    {
+        "name": "A Message From Your Space Cat",
+        "category": "Soothing Beats",
+        "id": 1264,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "Bubble Wrap ASMR",
+        "imageName": "MiddayDestress",
+        "URL": "Background Tracks/Epidemic/Soothing Beats/ES_A Message From Your Space Cat - Felix Johansson Carne.mp3"
+    },
+    {
+        "name": "Beach Day in Brooklyn",
+        "category": "Laid Back Focus Beats",
+        "id": 1265,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "Bubble Wrap ASMR",
+        "imageName": "MiddayDestress",
+        "URL": "Background Tracks/Epidemic/Laid back focus beats/ES_Beach Day in Brooklyn - Sarah, the Illstrumentalist.mp3"
+    },
+    {
+        "name": "Big Big Man",
+        "category": "Laid Back Focus Beats",
+        "id": 1266,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "Bubble Wrap ASMR",
+        "imageName": "MiddayDestress",
+        "URL": "Background Tracks/Epidemic/Laid back focus beats/ES_Big Big Man - Bonkers Beat Club.mp3"
+    },
+    {
+        "name": "Clemency",
+        "category": "Laid Back Focus Beats",
+        "id": 1267,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "Bubble Wrap ASMR",
+        "imageName": "MiddayDestress",
+        "URL": "Background Tracks/Epidemic/Laid back focus beats/ES_Clemency (Instrumental Version) - Pandaraps.mp3"
+    },
+    {
+        "name": "Early Dinners",
+        "category": "Laid Back Focus Beats",
+        "id": 1268,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "Bubble Wrap ASMR",
+        "imageName": "MiddayDestress",
+        "URL": "Background Tracks/Epidemic/Laid back focus beats/ES_Early Dinners - Sarah, the Illstrumentalist.mp3"
+    },
+    {
+        "name": "Etched",
+        "category": "Laid Back Focus Beats",
+        "id": 1269,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "Bubble Wrap ASMR",
+        "imageName": "MiddayDestress",
+        "URL": "Background Tracks/Epidemic/Laid back focus beats/ES_Etched - Dusty Decks.mp3"
+    },
+    {
+        "name": "Golden Skin",
+        "category": "Laid Back Focus Beats",
+        "id": 1270,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "Bubble Wrap ASMR",
+        "imageName": "MiddayDestress",
+        "URL": "Background Tracks/Epidemic/Laid back focus beats/ES_Golden Skin - Sarah, the Illstrumentalist.mp3"
+    },
+    {
+        "name": "Got My Dad's Nose",
+        "category": "Laid Back Focus Beats",
+        "id": 1271,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "Bubble Wrap ASMR",
+        "imageName": "MiddayDestress",
+        "URL": "Background Tracks/Epidemic/Laid back focus beats/ES_Got My Dad_s Nose (Instrumental Version) - Pandaraps.mp3"
+    },
+    {
+        "name": "I Wish You Were Mine",
+        "category": "Laid Back Focus Beats",
+        "id": 1272,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "Bubble Wrap ASMR",
+        "imageName": "MiddayDestress",
+        "URL": "Background Tracks/Epidemic/Laid back focus beats/ES_I Wish You Were Mine (K-POP Version) (Instrumental Version) - Adelyn Paik.mp3"
+    },
+    {
+        "name": "I'm Good On That",
+        "category": "Laid Back Focus Beats",
+        "id": 1273,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "Bubble Wrap ASMR",
+        "imageName": "MiddayDestress",
+        "URL": "Background Tracks/Epidemic/Laid back focus beats/ES_I_m Good on That - Sarah, the Illstrumentalist.mp3"
+    },
+    {
+        "name": "Inlay",
+        "category": "Laid Back Focus Beats",
+        "id": 1274,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "Bubble Wrap ASMR",
+        "imageName": "MiddayDestress",
+        "URL": "Background Tracks/Epidemic/Laid back focus beats/ES_Inlay - Dusty Decks.mp3"
+    },
+    {
+        "name": "Lilchill",
+        "category": "Laid Back Focus Beats",
+        "id": 1275,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "Bubble Wrap ASMR",
+        "imageName": "MiddayDestress",
+        "URL": "Background Tracks/Epidemic/Laid back focus beats/ES_Lilchill - Bonkers Beat Club.mp3"
+    },
+    {
+        "name": "Morning Stretch",
+        "category": "Laid Back Focus Beats",
+        "id": 1276,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "Bubble Wrap ASMR",
+        "imageName": "MiddayDestress",
+        "URL": "Background Tracks/Epidemic/Laid back focus beats/ES_Morning Stretch - Timothy Infinite.mp3"
+    },
+    {
+        "name": "Neon Tapestries",
+        "category": "Laid Back Focus Beats",
+        "id": 1277,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "Bubble Wrap ASMR",
+        "imageName": "MiddayDestress",
+        "URL": "Background Tracks/Epidemic/Laid back focus beats/ES_Neon Tapestries - Dusty Decks.mp3"
+    },
+    {
+        "name": "One Vision of Love",
+        "category": "Laid Back Focus Beats",
+        "id": 1278,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "Bubble Wrap ASMR",
+        "imageName": "MiddayDestress",
+        "URL": "Background Tracks/Epidemic/Laid back focus beats/ES_One Vision of Love - Beautiful Minds.mp3"
+    },
+    {
+        "name": "Repair Kit",
+        "category": "Laid Back Focus Beats",
+        "id": 1279,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "Bubble Wrap ASMR",
+        "imageName": "MiddayDestress",
+        "URL": "Background Tracks/Epidemic/Laid back focus beats/ES_Repair Kit - Auxjack.mp3"
+    },
+    {
+        "name": "Smokeshow",
+        "category": "Laid Back Focus Beats",
+        "id": 1280,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "Bubble Wrap ASMR",
+        "imageName": "MiddayDestress",
+        "URL": "Background Tracks/Epidemic/Laid back focus beats/ES_Smokeshow - Jobii.mp3"
+    },
+    {
+        "name": "Spring Sprungs",
+        "category": "Laid Back Focus Beats",
+        "id": 1281,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "Bubble Wrap ASMR",
+        "imageName": "MiddayDestress",
+        "URL": "Background Tracks/Epidemic/Laid back focus beats/ES_Spring Sprungs - Justnormal.mp3"
+    },
+    {
+        "name": "Tortoise Shell",
+        "category": "Laid Back Focus Beats",
+        "id": 1282,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "Bubble Wrap ASMR",
+        "imageName": "MiddayDestress",
+        "URL": "Background Tracks/Epidemic/Laid back focus beats/ES_Tortoise Shell - Jobii.mp3"
+    },
+    {
+        "name": "Water Under the Bridge",
+        "category": "Laid Back Focus Beats",
+        "id": 1283,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "Bubble Wrap ASMR",
+        "imageName": "MiddayDestress",
+        "URL": "Background Tracks/Epidemic/Laid back focus beats/ES_Water under the Bridge - Matt Large.mp3"
+    },
+    {
+        "name": "Mysmal Heart",
+        "category": "Laid Back Focus Beats",
+        "id": 1284,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "Bubble Wrap ASMR",
+        "imageName": "MiddayDestress",
+        "URL": "Background Tracks/Epidemic/Laid back focus beats/ES_mysmallheart - baegel.mp3"
+    },
+    {
+        "name": "Doorway of Light",
+        "category": "Nature Lullabies",
+        "id": 1285,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "Bubble Wrap ASMR",
+        "imageName": "MiddayDestress",
+        "URL": "Background Tracks/Epidemic/Nature Lullabies/ES_Doorway of Light - Ecovillage.mp3"
+    },
+    {
+        "name": "The Bird's World",
+        "category": "Nature Lullabies",
+        "id": 1286,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "Bubble Wrap ASMR",
+        "imageName": "MiddayDestress",
+        "URL": "Background Tracks/Epidemic/Nature Lullabies/ES_The Bird_s World - Elm Lake.mp3"
+    },
+    {
+        "name": "Thoughts in the Rain",
+        "category": "Nature Lullabies",
+        "id": 1287,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "Bubble Wrap ASMR",
+        "imageName": "MiddayDestress",
+        "URL": "Background Tracks/Epidemic/Nature Lullabies/ES_Thoughts in the Rain - Elm Lake.mp3"
+    },
+    {
+        "name": "Tranquil",
+        "category": "Nature Lullabies",
+        "id": 1288,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "Bubble Wrap ASMR",
+        "imageName": "MiddayDestress",
+        "URL": "Background Tracks/Epidemic/Nature Lullabies/ES_Tranquil - Elm Lake.mp3"
+    },
+    {
+        "name": "Singing Bowl Meditation ASMR",
+        "category": "Calm Breathing",
+        "id": 1289,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "Bubble Wrap ASMR",
+        "imageName": "MiddayDestress",
+        "URL": "Background Tracks/Epidemic/Calm Breathing/ES_ASMR Singing Bowl Meditation - Autonomic Sensations.mp3"
+    },
+    {
+        "name": "Calm",
+        "category": "Calm Breathing",
+        "id": 1290,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "Bubble Wrap ASMR",
+        "imageName": "MiddayDestress",
+        "URL": "Background Tracks/Epidemic/Calm Breathing/ES_Calm - Amber Glow.mp3"
+    },
+    {
+        "name": "Clear Western Sky",
+        "category": "Calm Breathing",
+        "id": 1291,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "Bubble Wrap ASMR",
+        "imageName": "MiddayDestress",
+        "URL": "Background Tracks/Epidemic/Calm Breathing/ES_Clear Western Sky - Chaxti.mp3"
+    },
+    {
+        "name": "Golden Chant",
+        "category": "Calm Breathing",
+        "id": 1292,
+        "isFeatured": false,
+        "isFavorite": true,
+        "mp3Name": "Bubble Wrap ASMR",
+        "imageName": "MiddayDestress",
+        "URL": "Background Tracks/Epidemic/Calm Breathing/ES_Golden Chant - Joseph Beg.mp3"
+    }
+
+]
+
+
