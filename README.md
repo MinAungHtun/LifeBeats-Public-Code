@@ -1,1 +1,1 @@
-Public facing code for Lifebeats. All keys are placeholders.
+Public facing code for Lifebeats before transitioning to combine. Token, Game, Streaming, HealthKit, AppClip, Spotify integrated. Firebase and RevenueCat included. Only 2D SKSpritkit game. No 3D Metal code. All keys are placeholders.
